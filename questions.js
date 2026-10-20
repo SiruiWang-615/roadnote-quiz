@@ -22,7 +22,14 @@ window.DEMO_BANK=[
     "originalUid": "U0001",
     "reference": "原题参考页 26",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0001",
+    "categories": [
+      "s1-02",
+      "s1-06"
+    ],
+    "category": "s1-02",
+    "categoryLabel": "信号に従うこと"
   },
   {
     "id": "import-A2",
@@ -45,7 +52,13 @@ window.DEMO_BANK=[
     "originalUid": "U0002",
     "reference": "原题参考页 36",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0002",
+    "categories": [
+      "s1-10"
+    ],
+    "category": "s1-10",
+    "categoryLabel": "進路変更など"
   },
   {
     "id": "import-A3",
@@ -68,7 +81,14 @@ window.DEMO_BANK=[
     "originalUid": "U0003",
     "reference": "原题参考页 146",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0003",
+    "categories": [
+      "s1-14",
+      "s2-17"
+    ],
+    "category": "s1-14",
+    "categoryLabel": "オートマチック車の運転"
   },
   {
     "id": "import-A4",
@@ -91,7 +111,13 @@ window.DEMO_BANK=[
     "originalUid": "U0004",
     "reference": "原题参考页 60",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0004",
+    "categories": [
+      "s1-04"
+    ],
+    "category": "s1-04",
+    "categoryLabel": "車の通行するところ・車が通行してはいけないところ"
   },
   {
     "id": "import-A5",
@@ -114,7 +140,14 @@ window.DEMO_BANK=[
     "originalUid": "U0005",
     "reference": "原题参考页 68",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0005",
+    "categories": [
+      "s2-04",
+      "s1-06"
+    ],
+    "category": "s2-04",
+    "categoryLabel": "死角と運転"
   },
   {
     "id": "import-A6",
@@ -137,7 +170,13 @@ window.DEMO_BANK=[
     "originalUid": "U0006",
     "reference": "原题参考页 46",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0006",
+    "categories": [
+      "s1-03"
+    ],
+    "category": "s1-03",
+    "categoryLabel": "標識・標示などに従うこと"
   },
   {
     "id": "import-A7",
@@ -160,7 +199,13 @@ window.DEMO_BANK=[
     "originalUid": "U0007",
     "reference": "原题参考页 117",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0007",
+    "categories": [
+      "s1-11"
+    ],
+    "category": "s1-11",
+    "categoryLabel": "追い越し"
   },
   {
     "id": "import-A8",
@@ -183,7 +228,15 @@ window.DEMO_BANK=[
     "originalUid": "U0008",
     "reference": "原题参考页 116",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0008",
+    "categories": [
+      "s1-11",
+      "s2-08",
+      "s1-04"
+    ],
+    "category": "s1-11",
+    "categoryLabel": "追い越し"
   },
   {
     "id": "import-A9",
@@ -206,7 +259,15 @@ window.DEMO_BANK=[
     "originalUid": "U0009",
     "reference": "原题参考页 36",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0009",
+    "categories": [
+      "s1-03",
+      "s1-11",
+      "s1-04"
+    ],
+    "category": "s1-03",
+    "categoryLabel": "標識・標示などに従うこと"
   },
   {
     "id": "import-A10",
@@ -229,7 +290,16 @@ window.DEMO_BANK=[
     "originalUid": "U0010",
     "reference": "原题参考页 78",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0010",
+    "categories": [
+      "s1-05",
+      "s1-06",
+      "s1-07",
+      "s1-04"
+    ],
+    "category": "s1-05",
+    "categoryLabel": "緊急自動車などの優先"
   },
   {
     "id": "import-A11",
@@ -252,7 +322,13 @@ window.DEMO_BANK=[
     "originalUid": "U0011",
     "reference": "原题参考页 126",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0011",
+    "categories": [
+      "s1-13"
+    ],
+    "category": "s1-13",
+    "categoryLabel": "運転免許制度・交通反則通告制度"
   },
   {
     "id": "import-A12",
@@ -275,7 +351,13 @@ window.DEMO_BANK=[
     "originalUid": "U0012",
     "reference": "原题参考页 84",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0012",
+    "categories": [
+      "s1-07"
+    ],
+    "category": "s1-07",
+    "categoryLabel": "安全な速度と車間距離"
   },
   {
     "id": "import-A13",
@@ -298,7 +380,13 @@ window.DEMO_BANK=[
     "originalUid": "U0013",
     "reference": "原题参考页 78",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0013",
+    "categories": [
+      "s1-05"
+    ],
+    "category": "s1-05",
+    "categoryLabel": "緊急自動車などの優先"
   },
   {
     "id": "import-A14",
@@ -321,7 +409,14 @@ window.DEMO_BANK=[
     "originalUid": "U0014",
     "reference": "原题参考页 92",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0014",
+    "categories": [
+      "s2-12",
+      "s1-04"
+    ],
+    "category": "s2-12",
+    "categoryLabel": "乗車と積載"
   },
   {
     "id": "import-A15",
@@ -344,7 +439,14 @@ window.DEMO_BANK=[
     "originalUid": "U0015",
     "reference": "原题参考页 116",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0015",
+    "categories": [
+      "s1-11",
+      "s1-06"
+    ],
+    "category": "s1-11",
+    "categoryLabel": "追い越し"
   },
   {
     "id": "import-A16",
@@ -367,7 +469,14 @@ window.DEMO_BANK=[
     "originalUid": "U0016",
     "reference": "原题参考页 57",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0016",
+    "categories": [
+      "s2-17",
+      "s1-04"
+    ],
+    "category": "s2-17",
+    "categoryLabel": "高速道路での運転"
   },
   {
     "id": "import-A17",
@@ -390,7 +499,13 @@ window.DEMO_BANK=[
     "originalUid": "U0017",
     "reference": "原题参考页 40",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0017",
+    "categories": [
+      "s1-03"
+    ],
+    "category": "s1-03",
+    "categoryLabel": "標識・標示などに従うこと"
   },
   {
     "id": "import-A18",
@@ -413,7 +528,14 @@ window.DEMO_BANK=[
     "originalUid": "U0018",
     "reference": "原题参考页 119",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0018",
+    "categories": [
+      "s1-11",
+      "s1-10"
+    ],
+    "category": "s1-11",
+    "categoryLabel": "追い越し"
   },
   {
     "id": "import-A19",
@@ -436,7 +558,14 @@ window.DEMO_BANK=[
     "originalUid": "U0019",
     "reference": "原题参考页 146",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0019",
+    "categories": [
+      "s1-14",
+      "s1-09"
+    ],
+    "category": "s1-14",
+    "categoryLabel": "オートマチック車の運転"
   },
   {
     "id": "import-A20",
@@ -459,7 +588,14 @@ window.DEMO_BANK=[
     "originalUid": "U0020",
     "reference": "原题参考页 117",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0020",
+    "categories": [
+      "s1-11",
+      "s1-04"
+    ],
+    "category": "s1-11",
+    "categoryLabel": "追い越し"
   },
   {
     "id": "import-A21",
@@ -482,7 +618,13 @@ window.DEMO_BANK=[
     "originalUid": "U0021",
     "reference": "原题参考页 65",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0021",
+    "categories": [
+      "s1-06"
+    ],
+    "category": "s1-06",
+    "categoryLabel": "交差点などの通行・踏切"
   },
   {
     "id": "import-A22",
@@ -505,7 +647,14 @@ window.DEMO_BANK=[
     "originalUid": "U0022",
     "reference": "原题参考页 35",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0022",
+    "categories": [
+      "s1-03",
+      "s1-06"
+    ],
+    "category": "s1-03",
+    "categoryLabel": "標識・標示などに従うこと"
   },
   {
     "id": "import-A23",
@@ -528,7 +677,13 @@ window.DEMO_BANK=[
     "originalUid": "U0023",
     "reference": "原题参考页 13",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0023",
+    "categories": [
+      "s1-04"
+    ],
+    "category": "s1-04",
+    "categoryLabel": "車の通行するところ・車が通行してはいけないところ"
   },
   {
     "id": "import-A24",
@@ -551,7 +706,14 @@ window.DEMO_BANK=[
     "originalUid": "U0024",
     "reference": "原题参考页 119",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0024",
+    "categories": [
+      "s1-11",
+      "s1-09"
+    ],
+    "category": "s1-11",
+    "categoryLabel": "追い越し"
   },
   {
     "id": "import-A25",
@@ -574,7 +736,14 @@ window.DEMO_BANK=[
     "originalUid": "U0025",
     "reference": "原题参考页 35",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0025",
+    "categories": [
+      "s1-03",
+      "s2-07"
+    ],
+    "category": "s1-03",
+    "categoryLabel": "標識・標示などに従うこと"
   },
   {
     "id": "import-A26",
@@ -597,7 +766,15 @@ window.DEMO_BANK=[
     "originalUid": "U0026",
     "reference": "原题参考页 93",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0026",
+    "categories": [
+      "s1-08",
+      "s1-07",
+      "s1-04"
+    ],
+    "category": "s1-08",
+    "categoryLabel": "歩行者の保護など"
   },
   {
     "id": "import-A27",
@@ -620,7 +797,13 @@ window.DEMO_BANK=[
     "originalUid": "U0027",
     "reference": "原题参考页 56",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0027",
+    "categories": [
+      "s1-04"
+    ],
+    "category": "s1-04",
+    "categoryLabel": "車の通行するところ・車が通行してはいけないところ"
   },
   {
     "id": "import-A28",
@@ -643,7 +826,13 @@ window.DEMO_BANK=[
     "originalUid": "U0028",
     "reference": "原题参考页 104",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0028",
+    "categories": [
+      "s1-09"
+    ],
+    "category": "s1-09",
+    "categoryLabel": "安全の確認と合図・警音器の使用"
   },
   {
     "id": "import-A29",
@@ -666,7 +855,13 @@ window.DEMO_BANK=[
     "originalUid": "U0029",
     "reference": "原题参考页 119",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0029",
+    "categories": [
+      "s1-11"
+    ],
+    "category": "s1-11",
+    "categoryLabel": "追い越し"
   },
   {
     "id": "import-A30",
@@ -689,7 +884,14 @@ window.DEMO_BANK=[
     "originalUid": "U0030",
     "reference": "原题参考页 117",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0030",
+    "categories": [
+      "s1-11",
+      "s1-04"
+    ],
+    "category": "s1-11",
+    "categoryLabel": "追い越し"
   },
   {
     "id": "import-A31",
@@ -712,7 +914,14 @@ window.DEMO_BANK=[
     "originalUid": "U0031",
     "reference": "原题参考页 96",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0031",
+    "categories": [
+      "s1-06",
+      "s1-07"
+    ],
+    "category": "s1-06",
+    "categoryLabel": "交差点などの通行・踏切"
   },
   {
     "id": "import-A32",
@@ -735,7 +944,14 @@ window.DEMO_BANK=[
     "originalUid": "U0032",
     "reference": "原题参考页 80",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0032",
+    "categories": [
+      "s1-05",
+      "s1-04"
+    ],
+    "category": "s1-05",
+    "categoryLabel": "緊急自動車などの優先"
   },
   {
     "id": "import-A33",
@@ -758,7 +974,14 @@ window.DEMO_BANK=[
     "originalUid": "U0033",
     "reference": "原题参考页 68",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0033",
+    "categories": [
+      "s2-04",
+      "s1-06"
+    ],
+    "category": "s2-04",
+    "categoryLabel": "死角と運転"
   },
   {
     "id": "import-A34",
@@ -781,7 +1004,15 @@ window.DEMO_BANK=[
     "originalUid": "U0034",
     "reference": "原题参考页 93",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0034",
+    "categories": [
+      "s2-12",
+      "s1-07",
+      "s1-04"
+    ],
+    "category": "s2-12",
+    "categoryLabel": "乗車と積載"
   },
   {
     "id": "import-A35",
@@ -804,7 +1035,13 @@ window.DEMO_BANK=[
     "originalUid": "U0035",
     "reference": "原题参考页 84",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0035",
+    "categories": [
+      "s1-07"
+    ],
+    "category": "s1-07",
+    "categoryLabel": "安全な速度と車間距離"
   },
   {
     "id": "import-A36",
@@ -827,7 +1064,14 @@ window.DEMO_BANK=[
     "originalUid": "U0036",
     "reference": "原题参考页 146",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0036",
+    "categories": [
+      "s1-14",
+      "s1-09"
+    ],
+    "category": "s1-14",
+    "categoryLabel": "オートマチック車の運転"
   },
   {
     "id": "import-A37",
@@ -850,7 +1094,14 @@ window.DEMO_BANK=[
     "originalUid": "U0024",
     "reference": "原题参考页 119",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0024",
+    "categories": [
+      "s1-11",
+      "s1-09"
+    ],
+    "category": "s1-11",
+    "categoryLabel": "追い越し"
   },
   {
     "id": "import-A38",
@@ -873,7 +1124,13 @@ window.DEMO_BANK=[
     "originalUid": "U0037",
     "reference": "原题参考页 40",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0037",
+    "categories": [
+      "s1-03"
+    ],
+    "category": "s1-03",
+    "categoryLabel": "標識・標示などに従うこと"
   },
   {
     "id": "import-A39",
@@ -896,7 +1153,11 @@ window.DEMO_BANK=[
     "originalUid": "U0038",
     "reference": "原题参考页 86",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0038",
+    "categories": [],
+    "category": "s1-07",
+    "categoryLabel": "安全な速度と車間距離"
   },
   {
     "id": "import-A40",
@@ -919,7 +1180,15 @@ window.DEMO_BANK=[
     "originalUid": "U0039",
     "reference": "原题参考页 48",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0039",
+    "categories": [
+      "s1-03",
+      "s2-17",
+      "s1-07"
+    ],
+    "category": "s1-03",
+    "categoryLabel": "標識・標示などに従うこと"
   },
   {
     "id": "import-A41",
@@ -942,7 +1211,14 @@ window.DEMO_BANK=[
     "originalUid": "U0040",
     "reference": "原题参考页 78",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0040",
+    "categories": [
+      "s1-05",
+      "s1-06"
+    ],
+    "category": "s1-05",
+    "categoryLabel": "緊急自動車などの優先"
   },
   {
     "id": "import-A42",
@@ -965,7 +1241,13 @@ window.DEMO_BANK=[
     "originalUid": "U0041",
     "reference": "原题参考页 21",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0041",
+    "categories": [
+      "s2-15"
+    ],
+    "category": "s2-15",
+    "categoryLabel": "自動車の所有者などの心得と保険制度"
   },
   {
     "id": "import-A43",
@@ -988,7 +1270,13 @@ window.DEMO_BANK=[
     "originalUid": "U0042",
     "reference": "原题参考页 146",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0042",
+    "categories": [
+      "s1-14"
+    ],
+    "category": "s1-14",
+    "categoryLabel": "オートマチック車の運転"
   },
   {
     "id": "import-A44",
@@ -1011,7 +1299,14 @@ window.DEMO_BANK=[
     "originalUid": "U0043",
     "reference": "原题参考页 45",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0043",
+    "categories": [
+      "s1-03",
+      "s1-10"
+    ],
+    "category": "s1-03",
+    "categoryLabel": "標識・標示などに従うこと"
   },
   {
     "id": "import-A45",
@@ -1034,7 +1329,14 @@ window.DEMO_BANK=[
     "originalUid": "U0044",
     "reference": "原题参考页 97",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0044",
+    "categories": [
+      "s1-08",
+      "s1-06"
+    ],
+    "category": "s1-08",
+    "categoryLabel": "歩行者の保護など"
   },
   {
     "id": "import-A46",
@@ -1057,7 +1359,13 @@ window.DEMO_BANK=[
     "originalUid": "U0045",
     "reference": "原题参考页 37",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0045",
+    "categories": [
+      "s1-07"
+    ],
+    "category": "s1-07",
+    "categoryLabel": "安全な速度と車間距離"
   },
   {
     "id": "import-A47",
@@ -1080,7 +1388,13 @@ window.DEMO_BANK=[
     "originalUid": "U0046",
     "reference": "原题参考页 65",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0046",
+    "categories": [
+      "s1-06"
+    ],
+    "category": "s1-06",
+    "categoryLabel": "交差点などの通行・踏切"
   },
   {
     "id": "import-A48",
@@ -1103,7 +1417,15 @@ window.DEMO_BANK=[
     "originalUid": "U0047",
     "reference": "原题参考页 40",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0047",
+    "categories": [
+      "s1-03",
+      "s1-08",
+      "s1-04"
+    ],
+    "category": "s1-03",
+    "categoryLabel": "標識・標示などに従うこと"
   },
   {
     "id": "import-A49",
@@ -1126,7 +1448,15 @@ window.DEMO_BANK=[
     "originalUid": "U0048",
     "reference": "原题参考页 94",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0048",
+    "categories": [
+      "s1-08",
+      "s1-07",
+      "s1-04"
+    ],
+    "category": "s1-08",
+    "categoryLabel": "歩行者の保護など"
   },
   {
     "id": "import-A50",
@@ -1149,7 +1479,13 @@ window.DEMO_BANK=[
     "originalUid": "U0049",
     "reference": "原题参考页 35",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0049",
+    "categories": [
+      "s1-03"
+    ],
+    "category": "s1-03",
+    "categoryLabel": "標識・標示などに従うこと"
   },
   {
     "id": "import-B1",
@@ -1172,7 +1508,14 @@ window.DEMO_BANK=[
     "originalUid": "U0050",
     "reference": "原题参考页 97",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0050",
+    "categories": [
+      "s1-08",
+      "s1-06"
+    ],
+    "category": "s1-08",
+    "categoryLabel": "歩行者の保護など"
   },
   {
     "id": "import-B2",
@@ -1195,7 +1538,15 @@ window.DEMO_BANK=[
     "originalUid": "U0051",
     "reference": "原题参考页 106",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0051",
+    "categories": [
+      "s1-08",
+      "s1-07",
+      "s1-09"
+    ],
+    "category": "s1-08",
+    "categoryLabel": "歩行者の保護など"
   },
   {
     "id": "import-B3",
@@ -1218,7 +1569,14 @@ window.DEMO_BANK=[
     "originalUid": "U0052",
     "reference": "原题参考页 64",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0052",
+    "categories": [
+      "s1-06",
+      "s1-04"
+    ],
+    "category": "s1-06",
+    "categoryLabel": "交差点などの通行・踏切"
   },
   {
     "id": "import-B4",
@@ -1241,7 +1599,13 @@ window.DEMO_BANK=[
     "originalUid": "U0053",
     "reference": "原题参考页 48",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0053",
+    "categories": [
+      "s1-03"
+    ],
+    "category": "s1-03",
+    "categoryLabel": "標識・標示などに従うこと"
   },
   {
     "id": "import-B5",
@@ -1264,7 +1628,15 @@ window.DEMO_BANK=[
     "originalUid": "U0054",
     "reference": "原题参考页 94",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0054",
+    "categories": [
+      "s1-08",
+      "s1-07",
+      "s1-04"
+    ],
+    "category": "s1-08",
+    "categoryLabel": "歩行者の保護など"
   },
   {
     "id": "import-B6",
@@ -1287,7 +1659,15 @@ window.DEMO_BANK=[
     "originalUid": "U0055",
     "reference": "原题参考页 146",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0055",
+    "categories": [
+      "s1-14",
+      "s2-11",
+      "s2-07"
+    ],
+    "category": "s1-14",
+    "categoryLabel": "オートマチック車の運転"
   },
   {
     "id": "import-B7",
@@ -1310,7 +1690,13 @@ window.DEMO_BANK=[
     "originalUid": "U0056",
     "reference": "原题参考页 56",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0056",
+    "categories": [
+      "s1-04"
+    ],
+    "category": "s1-04",
+    "categoryLabel": "車の通行するところ・車が通行してはいけないところ"
   },
   {
     "id": "import-B8",
@@ -1333,7 +1719,13 @@ window.DEMO_BANK=[
     "originalUid": "U0057",
     "reference": "原题参考页 37",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0057",
+    "categories": [
+      "s1-03"
+    ],
+    "category": "s1-03",
+    "categoryLabel": "標識・標示などに従うこと"
   },
   {
     "id": "import-B9",
@@ -1356,7 +1748,13 @@ window.DEMO_BANK=[
     "originalUid": "U0058",
     "reference": "原题参考页 126",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0058",
+    "categories": [
+      "s1-13"
+    ],
+    "category": "s1-13",
+    "categoryLabel": "運転免許制度・交通反則通告制度"
   },
   {
     "id": "import-B10",
@@ -1379,7 +1777,14 @@ window.DEMO_BANK=[
     "originalUid": "U0059",
     "reference": "原题参考页 93",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0059",
+    "categories": [
+      "s2-12",
+      "s1-04"
+    ],
+    "category": "s2-12",
+    "categoryLabel": "乗車と積載"
   },
   {
     "id": "import-B11",
@@ -1402,7 +1807,14 @@ window.DEMO_BANK=[
     "originalUid": "U0060",
     "reference": "原题参考页 104",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0060",
+    "categories": [
+      "s1-10",
+      "s1-09"
+    ],
+    "category": "s1-10",
+    "categoryLabel": "進路変更など"
   },
   {
     "id": "import-B12",
@@ -1425,7 +1837,13 @@ window.DEMO_BANK=[
     "originalUid": "U0061",
     "reference": "原题参考页 40",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0061",
+    "categories": [
+      "s1-03"
+    ],
+    "category": "s1-03",
+    "categoryLabel": "標識・標示などに従うこと"
   },
   {
     "id": "import-B13",
@@ -1448,7 +1866,14 @@ window.DEMO_BANK=[
     "originalUid": "U0062",
     "reference": "原题参考页 146",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0062",
+    "categories": [
+      "s1-14",
+      "s1-09"
+    ],
+    "category": "s1-14",
+    "categoryLabel": "オートマチック車の運転"
   },
   {
     "id": "import-B14",
@@ -1471,7 +1896,13 @@ window.DEMO_BANK=[
     "originalUid": "U0063",
     "reference": "原题参考页 88",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0063",
+    "categories": [
+      "s1-07"
+    ],
+    "category": "s1-07",
+    "categoryLabel": "安全な速度と車間距離"
   },
   {
     "id": "import-B15",
@@ -1494,7 +1925,13 @@ window.DEMO_BANK=[
     "originalUid": "U0064",
     "reference": "原题参考页 120",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0064",
+    "categories": [
+      "s1-11"
+    ],
+    "category": "s1-11",
+    "categoryLabel": "追い越し"
   },
   {
     "id": "import-B16",
@@ -1517,7 +1954,14 @@ window.DEMO_BANK=[
     "originalUid": "U0065",
     "reference": "原题参考页 36",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0065",
+    "categories": [
+      "s1-03",
+      "s1-11"
+    ],
+    "category": "s1-03",
+    "categoryLabel": "標識・標示などに従うこと"
   },
   {
     "id": "import-B17",
@@ -1540,7 +1984,14 @@ window.DEMO_BANK=[
     "originalUid": "U0066",
     "reference": "原题参考页 67",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0066",
+    "categories": [
+      "s1-05",
+      "s1-06"
+    ],
+    "category": "s1-05",
+    "categoryLabel": "緊急自動車などの優先"
   },
   {
     "id": "import-B18",
@@ -1563,7 +2014,13 @@ window.DEMO_BANK=[
     "originalUid": "U0067",
     "reference": "原题参考页 35",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0067",
+    "categories": [
+      "s1-03"
+    ],
+    "category": "s1-03",
+    "categoryLabel": "標識・標示などに従うこと"
   },
   {
     "id": "import-B19",
@@ -1586,7 +2043,15 @@ window.DEMO_BANK=[
     "originalUid": "U0068",
     "reference": "原题参考页 26",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0068",
+    "categories": [
+      "s1-02",
+      "s1-06",
+      "s1-07"
+    ],
+    "category": "s1-02",
+    "categoryLabel": "信号に従うこと"
   },
   {
     "id": "import-B20",
@@ -1609,7 +2074,14 @@ window.DEMO_BANK=[
     "originalUid": "U0069",
     "reference": "原题参考页 28",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0069",
+    "categories": [
+      "s1-02",
+      "s1-06"
+    ],
+    "category": "s1-02",
+    "categoryLabel": "信号に従うこと"
   },
   {
     "id": "import-B21",
@@ -1632,7 +2104,13 @@ window.DEMO_BANK=[
     "originalUid": "U0070",
     "reference": "原题参考页 40",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0070",
+    "categories": [
+      "s1-03"
+    ],
+    "category": "s1-03",
+    "categoryLabel": "標識・標示などに従うこと"
   },
   {
     "id": "import-B22",
@@ -1655,7 +2133,13 @@ window.DEMO_BANK=[
     "originalUid": "U0071",
     "reference": "原题参考页 56",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0071",
+    "categories": [
+      "s1-04"
+    ],
+    "category": "s1-04",
+    "categoryLabel": "車の通行するところ・車が通行してはいけないところ"
   },
   {
     "id": "import-B23",
@@ -1678,7 +2162,14 @@ window.DEMO_BANK=[
     "originalUid": "U0072",
     "reference": "原题参考页 104",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0072",
+    "categories": [
+      "s1-06",
+      "s1-09"
+    ],
+    "category": "s1-06",
+    "categoryLabel": "交差点などの通行・踏切"
   },
   {
     "id": "import-B24",
@@ -1701,7 +2192,15 @@ window.DEMO_BANK=[
     "originalUid": "U0073",
     "reference": "原题参考页 94",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0073",
+    "categories": [
+      "s1-08",
+      "s1-07",
+      "s1-04"
+    ],
+    "category": "s1-08",
+    "categoryLabel": "歩行者の保護など"
   },
   {
     "id": "import-B25",
@@ -1724,7 +2223,15 @@ window.DEMO_BANK=[
     "originalUid": "U0074",
     "reference": "原题参考页 87",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0074",
+    "categories": [
+      "s1-14",
+      "s2-17",
+      "s2-07"
+    ],
+    "category": "s1-14",
+    "categoryLabel": "オートマチック車の運転"
   },
   {
     "id": "import-B26",
@@ -1747,7 +2254,13 @@ window.DEMO_BANK=[
     "originalUid": "U0075",
     "reference": "原题参考页 78",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0075",
+    "categories": [
+      "s1-05"
+    ],
+    "category": "s1-05",
+    "categoryLabel": "緊急自動車などの優先"
   },
   {
     "id": "import-B27",
@@ -1770,7 +2283,15 @@ window.DEMO_BANK=[
     "originalUid": "U0076",
     "reference": "原题参考页 68",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0076",
+    "categories": [
+      "s1-10",
+      "s1-06",
+      "s1-09"
+    ],
+    "category": "s1-10",
+    "categoryLabel": "進路変更など"
   },
   {
     "id": "import-B28",
@@ -1793,7 +2314,15 @@ window.DEMO_BANK=[
     "originalUid": "U0077",
     "reference": "原题参考页 104",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0077",
+    "categories": [
+      "s1-10",
+      "s1-06",
+      "s1-09"
+    ],
+    "category": "s1-10",
+    "categoryLabel": "進路変更など"
   },
   {
     "id": "import-B29",
@@ -1816,7 +2345,14 @@ window.DEMO_BANK=[
     "originalUid": "U0078",
     "reference": "原题参考页 129",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0078",
+    "categories": [
+      "s2-12",
+      "s1-13"
+    ],
+    "category": "s2-12",
+    "categoryLabel": "乗車と積載"
   },
   {
     "id": "import-B30",
@@ -1839,7 +2375,14 @@ window.DEMO_BANK=[
     "originalUid": "U0079",
     "reference": "原题参考页 65",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0079",
+    "categories": [
+      "s1-06",
+      "s1-07"
+    ],
+    "category": "s1-06",
+    "categoryLabel": "交差点などの通行・踏切"
   },
   {
     "id": "import-B31",
@@ -1862,7 +2405,14 @@ window.DEMO_BANK=[
     "originalUid": "U0080",
     "reference": "原题参考页 94",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0080",
+    "categories": [
+      "s1-08",
+      "s1-07"
+    ],
+    "category": "s1-08",
+    "categoryLabel": "歩行者の保護など"
   },
   {
     "id": "import-B32",
@@ -1885,7 +2435,14 @@ window.DEMO_BANK=[
     "originalUid": "U0081",
     "reference": "原题参考页 24",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0081",
+    "categories": [
+      "s1-02",
+      "s1-06"
+    ],
+    "category": "s1-02",
+    "categoryLabel": "信号に従うこと"
   },
   {
     "id": "import-B33",
@@ -1908,7 +2465,15 @@ window.DEMO_BANK=[
     "originalUid": "U0082",
     "reference": "原题参考页 93",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0082",
+    "categories": [
+      "s1-08",
+      "s1-07",
+      "s1-04"
+    ],
+    "category": "s1-08",
+    "categoryLabel": "歩行者の保護など"
   },
   {
     "id": "import-B34",
@@ -1931,7 +2496,14 @@ window.DEMO_BANK=[
     "originalUid": "U0083",
     "reference": "原题参考页 146",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0083",
+    "categories": [
+      "s1-14",
+      "s2-07"
+    ],
+    "category": "s1-14",
+    "categoryLabel": "オートマチック車の運転"
   },
   {
     "id": "import-B35",
@@ -1954,7 +2526,14 @@ window.DEMO_BANK=[
     "originalUid": "U0084",
     "reference": "原题参考页 50",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0084",
+    "categories": [
+      "s1-03",
+      "s1-06"
+    ],
+    "category": "s1-03",
+    "categoryLabel": "標識・標示などに従うこと"
   },
   {
     "id": "import-B36",
@@ -1977,7 +2556,15 @@ window.DEMO_BANK=[
     "originalUid": "U0085",
     "reference": "原题参考页 79",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0085",
+    "categories": [
+      "s1-05",
+      "s1-06",
+      "s1-04"
+    ],
+    "category": "s1-05",
+    "categoryLabel": "緊急自動車などの優先"
   },
   {
     "id": "import-B37",
@@ -2000,7 +2587,14 @@ window.DEMO_BANK=[
     "originalUid": "U0086",
     "reference": "原题参考页 105",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0086",
+    "categories": [
+      "s1-06",
+      "s1-09"
+    ],
+    "category": "s1-06",
+    "categoryLabel": "交差点などの通行・踏切"
   },
   {
     "id": "import-B38",
@@ -2023,7 +2617,15 @@ window.DEMO_BANK=[
     "originalUid": "U0087",
     "reference": "原题参考页 94",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0087",
+    "categories": [
+      "s1-08",
+      "s1-11",
+      "s1-04"
+    ],
+    "category": "s1-08",
+    "categoryLabel": "歩行者の保護など"
   },
   {
     "id": "import-B39",
@@ -2046,7 +2648,13 @@ window.DEMO_BANK=[
     "originalUid": "U0088",
     "reference": "原题参考页 37",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0088",
+    "categories": [
+      "s1-03"
+    ],
+    "category": "s1-03",
+    "categoryLabel": "標識・標示などに従うこと"
   },
   {
     "id": "import-B40",
@@ -2069,7 +2677,13 @@ window.DEMO_BANK=[
     "originalUid": "U0089",
     "reference": "原题参考页 46",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0089",
+    "categories": [
+      "s1-04"
+    ],
+    "category": "s1-04",
+    "categoryLabel": "車の通行するところ・車が通行してはいけないところ"
   },
   {
     "id": "import-B41",
@@ -2092,7 +2706,11 @@ window.DEMO_BANK=[
     "originalUid": "U0090",
     "reference": "原题参考页 102",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0090",
+    "categories": [],
+    "category": "s1-01",
+    "categoryLabel": "運転者の心得"
   },
   {
     "id": "import-B42",
@@ -2115,7 +2733,13 @@ window.DEMO_BANK=[
     "originalUid": "U0037",
     "reference": "原题参考页 40",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0037",
+    "categories": [
+      "s1-03"
+    ],
+    "category": "s1-03",
+    "categoryLabel": "標識・標示などに従うこと"
   },
   {
     "id": "import-B43",
@@ -2138,7 +2762,13 @@ window.DEMO_BANK=[
     "originalUid": "U0091",
     "reference": "原题参考页 57",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0091",
+    "categories": [
+      "s1-04"
+    ],
+    "category": "s1-04",
+    "categoryLabel": "車の通行するところ・車が通行してはいけないところ"
   },
   {
     "id": "import-B44",
@@ -2161,7 +2791,13 @@ window.DEMO_BANK=[
     "originalUid": "U0092",
     "reference": "原题参考页 98",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0092",
+    "categories": [
+      "s1-11"
+    ],
+    "category": "s1-11",
+    "categoryLabel": "追い越し"
   },
   {
     "id": "import-B45",
@@ -2184,7 +2820,13 @@ window.DEMO_BANK=[
     "originalUid": "U0093",
     "reference": "原题参考页 35",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0093",
+    "categories": [
+      "s1-03"
+    ],
+    "category": "s1-03",
+    "categoryLabel": "標識・標示などに従うこと"
   },
   {
     "id": "import-B46",
@@ -2207,7 +2849,13 @@ window.DEMO_BANK=[
     "originalUid": "U0094",
     "reference": "原题参考页 55",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0094",
+    "categories": [
+      "s1-04"
+    ],
+    "category": "s1-04",
+    "categoryLabel": "車の通行するところ・車が通行してはいけないところ"
   },
   {
     "id": "import-B47",
@@ -2230,7 +2878,15 @@ window.DEMO_BANK=[
     "originalUid": "U0095",
     "reference": "原题参考页 147",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0095",
+    "categories": [
+      "s1-14",
+      "s1-02",
+      "s1-06"
+    ],
+    "category": "s1-14",
+    "categoryLabel": "オートマチック車の運転"
   },
   {
     "id": "import-B48",
@@ -2253,7 +2909,13 @@ window.DEMO_BANK=[
     "originalUid": "U0096",
     "reference": "原题参考页 57",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0096",
+    "categories": [
+      "s1-04"
+    ],
+    "category": "s1-04",
+    "categoryLabel": "車の通行するところ・車が通行してはいけないところ"
   },
   {
     "id": "import-B49",
@@ -2276,7 +2938,16 @@ window.DEMO_BANK=[
     "originalUid": "U0097",
     "reference": "原题参考页 45",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0097",
+    "categories": [
+      "s1-03",
+      "s1-10",
+      "s1-06",
+      "s1-04"
+    ],
+    "category": "s1-03",
+    "categoryLabel": "標識・標示などに従うこと"
   },
   {
     "id": "import-B50",
@@ -2299,7 +2970,15 @@ window.DEMO_BANK=[
     "originalUid": "U0098",
     "reference": "原题参考页 55・92",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0098",
+    "categories": [
+      "s1-08",
+      "s1-07",
+      "s1-04"
+    ],
+    "category": "s1-08",
+    "categoryLabel": "歩行者の保護など"
   },
   {
     "id": "import-本免1-1",
@@ -2322,7 +3001,13 @@ window.DEMO_BANK=[
     "originalUid": "U0758",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0758",
+    "categories": [
+      "s2-07"
+    ],
+    "category": "s2-07",
+    "categoryLabel": "車に働く自然の力と運転"
   },
   {
     "id": "import-本免1-2",
@@ -2345,7 +3030,13 @@ window.DEMO_BANK=[
     "originalUid": "U0759",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0759",
+    "categories": [
+      "s1-13"
+    ],
+    "category": "s1-13",
+    "categoryLabel": "運転免許制度・交通反則通告制度"
   },
   {
     "id": "import-本免1-3",
@@ -2368,7 +3059,14 @@ window.DEMO_BANK=[
     "originalUid": "U0760",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0760",
+    "categories": [
+      "s1-02",
+      "s1-06"
+    ],
+    "category": "s1-02",
+    "categoryLabel": "信号に従うこと"
   },
   {
     "id": "import-本免1-4",
@@ -2391,7 +3089,14 @@ window.DEMO_BANK=[
     "originalUid": "U0761",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0761",
+    "categories": [
+      "s2-17",
+      "s2-08"
+    ],
+    "category": "s2-17",
+    "categoryLabel": "高速道路での運転"
   },
   {
     "id": "import-本免1-5",
@@ -2414,7 +3119,14 @@ window.DEMO_BANK=[
     "originalUid": "U0762",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0762",
+    "categories": [
+      "s2-12",
+      "s1-13"
+    ],
+    "category": "s2-12",
+    "categoryLabel": "乗車と積載"
   },
   {
     "id": "import-本免1-6",
@@ -2437,7 +3149,13 @@ window.DEMO_BANK=[
     "originalUid": "U0763",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0763",
+    "categories": [
+      "s1-07"
+    ],
+    "category": "s1-07",
+    "categoryLabel": "安全な速度と車間距離"
   },
   {
     "id": "import-本免1-7",
@@ -2460,7 +3178,13 @@ window.DEMO_BANK=[
     "originalUid": "U0764",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0764",
+    "categories": [
+      "s2-07"
+    ],
+    "category": "s2-07",
+    "categoryLabel": "車に働く自然の力と運転"
   },
   {
     "id": "import-本免1-8",
@@ -2483,7 +3207,13 @@ window.DEMO_BANK=[
     "originalUid": "U0765",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0765",
+    "categories": [
+      "s2-11"
+    ],
+    "category": "s2-11",
+    "categoryLabel": "駐車と停車"
   },
   {
     "id": "import-本免1-9",
@@ -2506,7 +3236,14 @@ window.DEMO_BANK=[
     "originalUid": "U0766",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0766",
+    "categories": [
+      "s1-11",
+      "s1-06"
+    ],
+    "category": "s1-11",
+    "categoryLabel": "追い越し"
   },
   {
     "id": "import-本免1-10",
@@ -2529,7 +3266,14 @@ window.DEMO_BANK=[
     "originalUid": "U0767",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0767",
+    "categories": [
+      "s1-11",
+      "s2-07"
+    ],
+    "category": "s1-11",
+    "categoryLabel": "追い越し"
   },
   {
     "id": "import-本免1-11",
@@ -2552,7 +3296,14 @@ window.DEMO_BANK=[
     "originalUid": "U0768",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0768",
+    "categories": [
+      "s2-11",
+      "s1-04"
+    ],
+    "category": "s2-11",
+    "categoryLabel": "駐車と停車"
   },
   {
     "id": "import-本免1-12",
@@ -2575,7 +3326,15 @@ window.DEMO_BANK=[
     "originalUid": "U0769",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0769",
+    "categories": [
+      "s2-13",
+      "s2-17",
+      "s1-04"
+    ],
+    "category": "s2-13",
+    "categoryLabel": "けん引"
   },
   {
     "id": "import-本免1-13",
@@ -2598,7 +3357,13 @@ window.DEMO_BANK=[
     "originalUid": "U0770",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0770",
+    "categories": [
+      "s2-13"
+    ],
+    "category": "s2-13",
+    "categoryLabel": "けん引"
   },
   {
     "id": "import-本免1-14",
@@ -2621,7 +3386,14 @@ window.DEMO_BANK=[
     "originalUid": "U0771",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0771",
+    "categories": [
+      "s1-06",
+      "s1-09"
+    ],
+    "category": "s1-06",
+    "categoryLabel": "交差点などの通行・踏切"
   },
   {
     "id": "import-本免1-15",
@@ -2644,7 +3416,15 @@ window.DEMO_BANK=[
     "originalUid": "U0772",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0772",
+    "categories": [
+      "s1-02",
+      "s1-08",
+      "s1-04"
+    ],
+    "category": "s1-02",
+    "categoryLabel": "信号に従うこと"
   },
   {
     "id": "import-本免1-16",
@@ -2667,7 +3447,14 @@ window.DEMO_BANK=[
     "originalUid": "U0773",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0773",
+    "categories": [
+      "s2-11",
+      "s1-09"
+    ],
+    "category": "s2-11",
+    "categoryLabel": "駐車と停車"
   },
   {
     "id": "import-本免1-17",
@@ -2690,7 +3477,13 @@ window.DEMO_BANK=[
     "originalUid": "U0774",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0774",
+    "categories": [
+      "s2-12"
+    ],
+    "category": "s2-12",
+    "categoryLabel": "乗車と積載"
   },
   {
     "id": "import-本免1-18",
@@ -2713,7 +3506,13 @@ window.DEMO_BANK=[
     "originalUid": "U0775",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0775",
+    "categories": [
+      "s1-04"
+    ],
+    "category": "s1-04",
+    "categoryLabel": "車の通行するところ・車が通行してはいけないところ"
   },
   {
     "id": "import-本免1-19",
@@ -2736,7 +3535,14 @@ window.DEMO_BANK=[
     "originalUid": "U0776",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0776",
+    "categories": [
+      "s2-11",
+      "s2-08"
+    ],
+    "category": "s2-11",
+    "categoryLabel": "駐車と停車"
   },
   {
     "id": "import-本免1-20",
@@ -2759,7 +3565,13 @@ window.DEMO_BANK=[
     "originalUid": "U0777",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0777",
+    "categories": [
+      "s1-06"
+    ],
+    "category": "s1-06",
+    "categoryLabel": "交差点などの通行・踏切"
   },
   {
     "id": "import-本免1-21",
@@ -2782,7 +3594,11 @@ window.DEMO_BANK=[
     "originalUid": "U0778",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0778",
+    "categories": [],
+    "category": "s1-01",
+    "categoryLabel": "運転者の心得"
   },
   {
     "id": "import-本免1-22",
@@ -2805,7 +3621,13 @@ window.DEMO_BANK=[
     "originalUid": "U0779",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0779",
+    "categories": [
+      "s2-07"
+    ],
+    "category": "s2-07",
+    "categoryLabel": "車に働く自然の力と運転"
   },
   {
     "id": "import-本免1-23",
@@ -2828,7 +3650,14 @@ window.DEMO_BANK=[
     "originalUid": "U0780",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0780",
+    "categories": [
+      "s1-08",
+      "s1-07"
+    ],
+    "category": "s1-08",
+    "categoryLabel": "歩行者の保護など"
   },
   {
     "id": "import-本免1-24",
@@ -2851,7 +3680,14 @@ window.DEMO_BANK=[
     "originalUid": "U0781",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0781",
+    "categories": [
+      "s1-13",
+      "s2-04"
+    ],
+    "category": "s1-13",
+    "categoryLabel": "運転免許制度・交通反則通告制度"
   },
   {
     "id": "import-本免1-25",
@@ -2874,7 +3710,13 @@ window.DEMO_BANK=[
     "originalUid": "U0782",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0782",
+    "categories": [
+      "s1-02"
+    ],
+    "category": "s1-02",
+    "categoryLabel": "信号に従うこと"
   },
   {
     "id": "import-本免1-26",
@@ -2897,7 +3739,14 @@ window.DEMO_BANK=[
     "originalUid": "U0783",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0783",
+    "categories": [
+      "s2-10",
+      "s2-17"
+    ],
+    "category": "s2-10",
+    "categoryLabel": "自動車の保守管理"
   },
   {
     "id": "import-本免1-27",
@@ -2920,7 +3769,11 @@ window.DEMO_BANK=[
     "originalUid": "U0784",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0784",
+    "categories": [],
+    "category": "s1-03",
+    "categoryLabel": "標識・標示などに従うこと"
   },
   {
     "id": "import-本免1-28",
@@ -2943,7 +3796,13 @@ window.DEMO_BANK=[
     "originalUid": "U0785",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0785",
+    "categories": [
+      "s1-13"
+    ],
+    "category": "s1-13",
+    "categoryLabel": "運転免許制度・交通反則通告制度"
   },
   {
     "id": "import-本免1-29",
@@ -2966,7 +3825,14 @@ window.DEMO_BANK=[
     "originalUid": "U0786",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0786",
+    "categories": [
+      "s2-17",
+      "s1-04"
+    ],
+    "category": "s2-17",
+    "categoryLabel": "高速道路での運転"
   },
   {
     "id": "import-本免1-30",
@@ -2989,7 +3855,11 @@ window.DEMO_BANK=[
     "originalUid": "U0787",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0787",
+    "categories": [],
+    "category": "s1-01",
+    "categoryLabel": "運転者の心得"
   },
   {
     "id": "import-本免1-31",
@@ -3012,7 +3882,13 @@ window.DEMO_BANK=[
     "originalUid": "U0788",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0788",
+    "categories": [
+      "s1-03"
+    ],
+    "category": "s1-03",
+    "categoryLabel": "標識・標示などに従うこと"
   },
   {
     "id": "import-本免1-32",
@@ -3035,7 +3911,15 @@ window.DEMO_BANK=[
     "originalUid": "U0789",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0789",
+    "categories": [
+      "s1-08",
+      "s1-07",
+      "s1-04"
+    ],
+    "category": "s1-08",
+    "categoryLabel": "歩行者の保護など"
   },
   {
     "id": "import-本免1-33",
@@ -3058,7 +3942,13 @@ window.DEMO_BANK=[
     "originalUid": "U0790",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0790",
+    "categories": [
+      "s1-06"
+    ],
+    "category": "s1-06",
+    "categoryLabel": "交差点などの通行・踏切"
   },
   {
     "id": "import-本免1-34",
@@ -3081,7 +3971,14 @@ window.DEMO_BANK=[
     "originalUid": "U0791",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0791",
+    "categories": [
+      "s2-11",
+      "s1-04"
+    ],
+    "category": "s2-11",
+    "categoryLabel": "駐車と停車"
   },
   {
     "id": "import-本免1-35",
@@ -3104,7 +4001,13 @@ window.DEMO_BANK=[
     "originalUid": "U0792",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0792",
+    "categories": [
+      "s1-02"
+    ],
+    "category": "s1-02",
+    "categoryLabel": "信号に従うこと"
   },
   {
     "id": "import-本免1-36",
@@ -3127,7 +4030,13 @@ window.DEMO_BANK=[
     "originalUid": "U0793",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0793",
+    "categories": [
+      "s2-13"
+    ],
+    "category": "s2-13",
+    "categoryLabel": "けん引"
   },
   {
     "id": "import-本免1-37",
@@ -3150,7 +4059,14 @@ window.DEMO_BANK=[
     "originalUid": "U0794",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0794",
+    "categories": [
+      "s1-05",
+      "s1-06"
+    ],
+    "category": "s1-05",
+    "categoryLabel": "緊急自動車などの優先"
   },
   {
     "id": "import-本免1-38",
@@ -3173,7 +4089,11 @@ window.DEMO_BANK=[
     "originalUid": "U0795",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0795",
+    "categories": [],
+    "category": "s1-03",
+    "categoryLabel": "標識・標示などに従うこと"
   },
   {
     "id": "import-本免1-39",
@@ -3196,7 +4116,13 @@ window.DEMO_BANK=[
     "originalUid": "U0796",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0796",
+    "categories": [
+      "s2-17"
+    ],
+    "category": "s2-17",
+    "categoryLabel": "高速道路での運転"
   },
   {
     "id": "import-本免1-40",
@@ -3219,7 +4145,14 @@ window.DEMO_BANK=[
     "originalUid": "U0797",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0797",
+    "categories": [
+      "s2-13",
+      "s1-13"
+    ],
+    "category": "s2-13",
+    "categoryLabel": "けん引"
   },
   {
     "id": "import-本免1-41",
@@ -3242,7 +4175,11 @@ window.DEMO_BANK=[
     "originalUid": "U0798",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0798",
+    "categories": [],
+    "category": "s2-14",
+    "categoryLabel": "交通事故のとき"
   },
   {
     "id": "import-本免1-42",
@@ -3265,7 +4202,11 @@ window.DEMO_BANK=[
     "originalUid": "U0799",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0799",
+    "categories": [],
+    "category": "s2-14",
+    "categoryLabel": "交通事故のとき"
   },
   {
     "id": "import-本免1-43",
@@ -3288,7 +4229,13 @@ window.DEMO_BANK=[
     "originalUid": "U0800",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0800",
+    "categories": [
+      "s2-11"
+    ],
+    "category": "s2-11",
+    "categoryLabel": "駐車と停車"
   },
   {
     "id": "import-本免1-44",
@@ -3311,7 +4258,16 @@ window.DEMO_BANK=[
     "originalUid": "U0801",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0801",
+    "categories": [
+      "s1-08",
+      "s1-11",
+      "s1-10",
+      "s1-04"
+    ],
+    "category": "s1-08",
+    "categoryLabel": "歩行者の保護など"
   },
   {
     "id": "import-本免1-45",
@@ -3334,7 +4290,13 @@ window.DEMO_BANK=[
     "originalUid": "U0802",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0802",
+    "categories": [
+      "s1-02"
+    ],
+    "category": "s1-02",
+    "categoryLabel": "信号に従うこと"
   },
   {
     "id": "import-本免1-46",
@@ -3357,7 +4319,14 @@ window.DEMO_BANK=[
     "originalUid": "U0803",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0803",
+    "categories": [
+      "s1-06",
+      "s1-07"
+    ],
+    "category": "s1-06",
+    "categoryLabel": "交差点などの通行・踏切"
   },
   {
     "id": "import-本免1-47",
@@ -3380,7 +4349,14 @@ window.DEMO_BANK=[
     "originalUid": "U0804",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0804",
+    "categories": [
+      "s2-17",
+      "s1-07"
+    ],
+    "category": "s2-17",
+    "categoryLabel": "高速道路での運転"
   },
   {
     "id": "import-本免1-48",
@@ -3403,7 +4379,13 @@ window.DEMO_BANK=[
     "originalUid": "U0805",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0805",
+    "categories": [
+      "s1-04"
+    ],
+    "category": "s1-04",
+    "categoryLabel": "車の通行するところ・車が通行してはいけないところ"
   },
   {
     "id": "import-本免1-49",
@@ -3426,7 +4408,16 @@ window.DEMO_BANK=[
     "originalUid": "U0806",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0806",
+    "categories": [
+      "s2-11",
+      "s1-08",
+      "s1-10",
+      "s1-04"
+    ],
+    "category": "s2-11",
+    "categoryLabel": "駐車と停車"
   },
   {
     "id": "import-本免1-50",
@@ -3449,7 +4440,14 @@ window.DEMO_BANK=[
     "originalUid": "U0807",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0807",
+    "categories": [
+      "s1-08",
+      "s1-07"
+    ],
+    "category": "s1-08",
+    "categoryLabel": "歩行者の保護など"
   },
   {
     "id": "import-本免1-51",
@@ -3472,7 +4470,11 @@ window.DEMO_BANK=[
     "originalUid": "U0808",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0808",
+    "categories": [],
+    "category": "s2-07",
+    "categoryLabel": "車に働く自然の力と運転"
   },
   {
     "id": "import-本免1-52",
@@ -3495,7 +4497,11 @@ window.DEMO_BANK=[
     "originalUid": "U0809",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0809",
+    "categories": [],
+    "category": "s1-01",
+    "categoryLabel": "運転者の心得"
   },
   {
     "id": "import-本免1-53",
@@ -3518,7 +4524,13 @@ window.DEMO_BANK=[
     "originalUid": "U0810",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0810",
+    "categories": [
+      "s1-14"
+    ],
+    "category": "s1-14",
+    "categoryLabel": "オートマチック車の運転"
   },
   {
     "id": "import-本免1-54",
@@ -3541,7 +4553,11 @@ window.DEMO_BANK=[
     "originalUid": "U0811",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0811",
+    "categories": [],
+    "category": "s1-01",
+    "categoryLabel": "運転者の心得"
   },
   {
     "id": "import-本免1-55",
@@ -3564,7 +4580,13 @@ window.DEMO_BANK=[
     "originalUid": "U0812",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0812",
+    "categories": [
+      "s2-08"
+    ],
+    "category": "s2-08",
+    "categoryLabel": "悪条件下での運転など"
   },
   {
     "id": "import-本免1-56",
@@ -3587,7 +4609,13 @@ window.DEMO_BANK=[
     "originalUid": "U0813",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0813",
+    "categories": [
+      "s2-11"
+    ],
+    "category": "s2-11",
+    "categoryLabel": "駐車と停車"
   },
   {
     "id": "import-本免1-57",
@@ -3610,7 +4638,13 @@ window.DEMO_BANK=[
     "originalUid": "U0814",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0814",
+    "categories": [
+      "s1-13"
+    ],
+    "category": "s1-13",
+    "categoryLabel": "運転免許制度・交通反則通告制度"
   },
   {
     "id": "import-本免1-58",
@@ -3633,7 +4667,14 @@ window.DEMO_BANK=[
     "originalUid": "U0815",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0815",
+    "categories": [
+      "s1-06",
+      "s1-04"
+    ],
+    "category": "s1-06",
+    "categoryLabel": "交差点などの通行・踏切"
   },
   {
     "id": "import-本免1-59",
@@ -3656,7 +4697,13 @@ window.DEMO_BANK=[
     "originalUid": "U0816",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0816",
+    "categories": [
+      "s2-10"
+    ],
+    "category": "s2-10",
+    "categoryLabel": "自動車の保守管理"
   },
   {
     "id": "import-本免1-60",
@@ -3679,7 +4726,11 @@ window.DEMO_BANK=[
     "originalUid": "U0817",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0817",
+    "categories": [],
+    "category": "s1-01",
+    "categoryLabel": "運転者の心得"
   },
   {
     "id": "import-本免1-61",
@@ -3702,7 +4753,13 @@ window.DEMO_BANK=[
     "originalUid": "U0818",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0818",
+    "categories": [
+      "s1-13"
+    ],
+    "category": "s1-13",
+    "categoryLabel": "運転免許制度・交通反則通告制度"
   },
   {
     "id": "import-本免1-62",
@@ -3725,7 +4782,13 @@ window.DEMO_BANK=[
     "originalUid": "U0819",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0819",
+    "categories": [
+      "s1-01"
+    ],
+    "category": "s1-01",
+    "categoryLabel": "運転者の心得"
   },
   {
     "id": "import-本免1-63",
@@ -3748,7 +4811,13 @@ window.DEMO_BANK=[
     "originalUid": "U0820",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0820",
+    "categories": [
+      "s2-14"
+    ],
+    "category": "s2-14",
+    "categoryLabel": "交通事故のとき"
   },
   {
     "id": "import-本免1-64",
@@ -3771,7 +4840,14 @@ window.DEMO_BANK=[
     "originalUid": "U0821",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0821",
+    "categories": [
+      "s2-12",
+      "s1-08"
+    ],
+    "category": "s2-12",
+    "categoryLabel": "乗車と積載"
   },
   {
     "id": "import-本免1-65",
@@ -3794,7 +4870,14 @@ window.DEMO_BANK=[
     "originalUid": "U0822",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0822",
+    "categories": [
+      "s1-06",
+      "s1-07"
+    ],
+    "category": "s1-06",
+    "categoryLabel": "交差点などの通行・踏切"
   },
   {
     "id": "import-本免1-66",
@@ -3817,7 +4900,14 @@ window.DEMO_BANK=[
     "originalUid": "U0823",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0823",
+    "categories": [
+      "s1-10",
+      "s1-04"
+    ],
+    "category": "s1-10",
+    "categoryLabel": "進路変更など"
   },
   {
     "id": "import-本免1-67",
@@ -3840,7 +4930,14 @@ window.DEMO_BANK=[
     "originalUid": "U0824",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0824",
+    "categories": [
+      "s1-08",
+      "s1-04"
+    ],
+    "category": "s1-08",
+    "categoryLabel": "歩行者の保護など"
   },
   {
     "id": "import-本免1-68",
@@ -3863,7 +4960,13 @@ window.DEMO_BANK=[
     "originalUid": "U0825",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0825",
+    "categories": [
+      "s1-11"
+    ],
+    "category": "s1-11",
+    "categoryLabel": "追い越し"
   },
   {
     "id": "import-本免1-69",
@@ -3886,7 +4989,14 @@ window.DEMO_BANK=[
     "originalUid": "U0826",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0826",
+    "categories": [
+      "s2-12",
+      "s1-04"
+    ],
+    "category": "s2-12",
+    "categoryLabel": "乗車と積載"
   },
   {
     "id": "import-本免1-70",
@@ -3909,7 +5019,13 @@ window.DEMO_BANK=[
     "originalUid": "U0827",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0827",
+    "categories": [
+      "s2-10"
+    ],
+    "category": "s2-10",
+    "categoryLabel": "自動車の保守管理"
   },
   {
     "id": "import-本免1-71",
@@ -3932,7 +5048,11 @@ window.DEMO_BANK=[
     "originalUid": "U0828",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0828",
+    "categories": [],
+    "category": "s1-01",
+    "categoryLabel": "運転者の心得"
   },
   {
     "id": "import-本免1-72",
@@ -3955,7 +5075,14 @@ window.DEMO_BANK=[
     "originalUid": "U0829",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0829",
+    "categories": [
+      "s1-06",
+      "s1-07"
+    ],
+    "category": "s1-06",
+    "categoryLabel": "交差点などの通行・踏切"
   },
   {
     "id": "import-本免1-73",
@@ -3978,7 +5105,13 @@ window.DEMO_BANK=[
     "originalUid": "U0830",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0830",
+    "categories": [
+      "s1-14"
+    ],
+    "category": "s1-14",
+    "categoryLabel": "オートマチック車の運転"
   },
   {
     "id": "import-本免1-74",
@@ -4001,7 +5134,13 @@ window.DEMO_BANK=[
     "originalUid": "U0831",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0831",
+    "categories": [
+      "s1-09"
+    ],
+    "category": "s1-09",
+    "categoryLabel": "安全の確認と合図・警音器の使用"
   },
   {
     "id": "import-本免1-75",
@@ -4024,7 +5163,13 @@ window.DEMO_BANK=[
     "originalUid": "U0832",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0832",
+    "categories": [
+      "s1-08"
+    ],
+    "category": "s1-08",
+    "categoryLabel": "歩行者の保護など"
   },
   {
     "id": "import-本免1-76",
@@ -4047,7 +5192,13 @@ window.DEMO_BANK=[
     "originalUid": "U0833",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0833",
+    "categories": [
+      "s2-06"
+    ],
+    "category": "s2-06",
+    "categoryLabel": "人間の能力と運転"
   },
   {
     "id": "import-本免1-77",
@@ -4070,7 +5221,13 @@ window.DEMO_BANK=[
     "originalUid": "U0834",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0834",
+    "categories": [
+      "s2-12"
+    ],
+    "category": "s2-12",
+    "categoryLabel": "乗車と積載"
   },
   {
     "id": "import-本免1-78",
@@ -4093,7 +5250,13 @@ window.DEMO_BANK=[
     "originalUid": "U0835",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0835",
+    "categories": [
+      "s2-15"
+    ],
+    "category": "s2-15",
+    "categoryLabel": "自動車の所有者などの心得と保険制度"
   },
   {
     "id": "import-本免1-79",
@@ -4116,7 +5279,14 @@ window.DEMO_BANK=[
     "originalUid": "U0836",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0836",
+    "categories": [
+      "s1-06",
+      "s1-07"
+    ],
+    "category": "s1-06",
+    "categoryLabel": "交差点などの通行・踏切"
   },
   {
     "id": "import-本免1-80",
@@ -4139,7 +5309,11 @@ window.DEMO_BANK=[
     "originalUid": "U0837",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0837",
+    "categories": [],
+    "category": "s1-09",
+    "categoryLabel": "安全の確認と合図・警音器の使用"
   },
   {
     "id": "import-本免1-81",
@@ -4162,7 +5336,13 @@ window.DEMO_BANK=[
     "originalUid": "U0838",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0838",
+    "categories": [
+      "s1-03"
+    ],
+    "category": "s1-03",
+    "categoryLabel": "標識・標示などに従うこと"
   },
   {
     "id": "import-本免1-82",
@@ -4185,7 +5365,13 @@ window.DEMO_BANK=[
     "originalUid": "U0839",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0839",
+    "categories": [
+      "s2-11"
+    ],
+    "category": "s2-11",
+    "categoryLabel": "駐車と停車"
   },
   {
     "id": "import-本免1-83",
@@ -4208,7 +5394,13 @@ window.DEMO_BANK=[
     "originalUid": "U0840",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0840",
+    "categories": [
+      "s1-03"
+    ],
+    "category": "s1-03",
+    "categoryLabel": "標識・標示などに従うこと"
   },
   {
     "id": "import-本免1-84",
@@ -4231,7 +5423,11 @@ window.DEMO_BANK=[
     "originalUid": "U0841",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0841",
+    "categories": [],
+    "category": "s1-03",
+    "categoryLabel": "標識・標示などに従うこと"
   },
   {
     "id": "import-本免1-85",
@@ -4254,7 +5450,13 @@ window.DEMO_BANK=[
     "originalUid": "U0842",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0842",
+    "categories": [
+      "s1-01"
+    ],
+    "category": "s1-01",
+    "categoryLabel": "運転者の心得"
   },
   {
     "id": "import-本免1-86",
@@ -4277,7 +5479,13 @@ window.DEMO_BANK=[
     "originalUid": "U0843",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0843",
+    "categories": [
+      "s2-10"
+    ],
+    "category": "s2-10",
+    "categoryLabel": "自動車の保守管理"
   },
   {
     "id": "import-本免1-87",
@@ -4300,7 +5508,14 @@ window.DEMO_BANK=[
     "originalUid": "U0844",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0844",
+    "categories": [
+      "s1-02",
+      "s1-06"
+    ],
+    "category": "s1-02",
+    "categoryLabel": "信号に従うこと"
   },
   {
     "id": "import-本免1-88",
@@ -4323,7 +5538,14 @@ window.DEMO_BANK=[
     "originalUid": "U0845",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0845",
+    "categories": [
+      "s2-17",
+      "s1-07"
+    ],
+    "category": "s2-17",
+    "categoryLabel": "高速道路での運転"
   },
   {
     "id": "import-本免1-89",
@@ -4346,7 +5568,13 @@ window.DEMO_BANK=[
     "originalUid": "U0846",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0846",
+    "categories": [
+      "s2-10"
+    ],
+    "category": "s2-10",
+    "categoryLabel": "自動車の保守管理"
   },
   {
     "id": "import-本免1-90",
@@ -4369,7 +5597,13 @@ window.DEMO_BANK=[
     "originalUid": "U0847",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0847",
+    "categories": [
+      "s2-12"
+    ],
+    "category": "s2-12",
+    "categoryLabel": "乗車と積載"
   },
   {
     "id": "import-本免1-91-1",
@@ -4392,7 +5626,11 @@ window.DEMO_BANK=[
     "originalUid": "U0848",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0848",
+    "categories": [],
+    "category": "s2-17",
+    "categoryLabel": "高速道路での運転"
   },
   {
     "id": "import-本免1-91-2",
@@ -4415,7 +5653,11 @@ window.DEMO_BANK=[
     "originalUid": "U0849",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0849",
+    "categories": [],
+    "category": "s2-17",
+    "categoryLabel": "高速道路での運転"
   },
   {
     "id": "import-本免1-91-3",
@@ -4438,7 +5680,11 @@ window.DEMO_BANK=[
     "originalUid": "U0850",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0850",
+    "categories": [],
+    "category": "s2-17",
+    "categoryLabel": "高速道路での運転"
   },
   {
     "id": "import-本免1-92-1",
@@ -4461,7 +5707,14 @@ window.DEMO_BANK=[
     "originalUid": "U0851",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0851",
+    "categories": [
+      "s2-17",
+      "s1-10"
+    ],
+    "category": "s2-17",
+    "categoryLabel": "高速道路での運転"
   },
   {
     "id": "import-本免1-92-2",
@@ -4484,7 +5737,13 @@ window.DEMO_BANK=[
     "originalUid": "U0852",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0852",
+    "categories": [
+      "s2-17"
+    ],
+    "category": "s2-17",
+    "categoryLabel": "高速道路での運転"
   },
   {
     "id": "import-本免1-92-3",
@@ -4507,7 +5766,13 @@ window.DEMO_BANK=[
     "originalUid": "U0853",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0853",
+    "categories": [
+      "s2-17"
+    ],
+    "category": "s2-17",
+    "categoryLabel": "高速道路での運転"
   },
   {
     "id": "import-本免1-93-1",
@@ -4530,7 +5795,14 @@ window.DEMO_BANK=[
     "originalUid": "U0854",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0854",
+    "categories": [
+      "s1-08",
+      "s1-07"
+    ],
+    "category": "s1-08",
+    "categoryLabel": "歩行者の保護など"
   },
   {
     "id": "import-本免1-93-2",
@@ -4553,7 +5825,14 @@ window.DEMO_BANK=[
     "originalUid": "U0855",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0855",
+    "categories": [
+      "s1-08",
+      "s1-04"
+    ],
+    "category": "s1-08",
+    "categoryLabel": "歩行者の保護など"
   },
   {
     "id": "import-本免1-93-3",
@@ -4576,7 +5855,14 @@ window.DEMO_BANK=[
     "originalUid": "U0856",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0856",
+    "categories": [
+      "s1-08",
+      "s1-09"
+    ],
+    "category": "s1-08",
+    "categoryLabel": "歩行者の保護など"
   },
   {
     "id": "import-本免1-94-1",
@@ -4599,7 +5885,13 @@ window.DEMO_BANK=[
     "originalUid": "U0857",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0857",
+    "categories": [
+      "s1-06"
+    ],
+    "category": "s1-06",
+    "categoryLabel": "交差点などの通行・踏切"
   },
   {
     "id": "import-本免1-94-2",
@@ -4622,7 +5914,13 @@ window.DEMO_BANK=[
     "originalUid": "U0858",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0858",
+    "categories": [
+      "s1-08"
+    ],
+    "category": "s1-08",
+    "categoryLabel": "歩行者の保護など"
   },
   {
     "id": "import-本免1-94-3",
@@ -4645,7 +5943,14 @@ window.DEMO_BANK=[
     "originalUid": "U0859",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0859",
+    "categories": [
+      "s2-04",
+      "s1-06"
+    ],
+    "category": "s2-04",
+    "categoryLabel": "死角と運転"
   },
   {
     "id": "import-本免1-95-1",
@@ -4668,7 +5973,11 @@ window.DEMO_BANK=[
     "originalUid": "U0860",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0860",
+    "categories": [],
+    "category": "s2-04",
+    "categoryLabel": "死角と運転"
   },
   {
     "id": "import-本免1-95-2",
@@ -4691,7 +6000,11 @@ window.DEMO_BANK=[
     "originalUid": "U0861",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0861",
+    "categories": [],
+    "category": "s2-04",
+    "categoryLabel": "死角と運転"
   },
   {
     "id": "import-本免1-95-3",
@@ -4714,7 +6027,14 @@ window.DEMO_BANK=[
     "originalUid": "U0862",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0862",
+    "categories": [
+      "s1-08",
+      "s1-04"
+    ],
+    "category": "s1-08",
+    "categoryLabel": "歩行者の保護など"
   },
   {
     "id": "import-本免2-1",
@@ -4737,7 +6057,13 @@ window.DEMO_BANK=[
     "originalUid": "U0863",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0863",
+    "categories": [
+      "s2-11"
+    ],
+    "category": "s2-11",
+    "categoryLabel": "駐車と停車"
   },
   {
     "id": "import-本免2-2",
@@ -4760,7 +6086,13 @@ window.DEMO_BANK=[
     "originalUid": "U0864",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0864",
+    "categories": [
+      "s2-08"
+    ],
+    "category": "s2-08",
+    "categoryLabel": "悪条件下での運転など"
   },
   {
     "id": "import-本免2-3",
@@ -4783,7 +6115,14 @@ window.DEMO_BANK=[
     "originalUid": "U0865",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0865",
+    "categories": [
+      "s1-11",
+      "s1-07"
+    ],
+    "category": "s1-11",
+    "categoryLabel": "追い越し"
   },
   {
     "id": "import-本免2-4",
@@ -4806,7 +6145,13 @@ window.DEMO_BANK=[
     "originalUid": "U0866",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0866",
+    "categories": [
+      "s2-12"
+    ],
+    "category": "s2-12",
+    "categoryLabel": "乗車と積載"
   },
   {
     "id": "import-本免2-5",
@@ -4829,7 +6174,14 @@ window.DEMO_BANK=[
     "originalUid": "U0867",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0867",
+    "categories": [
+      "s1-08",
+      "s2-08"
+    ],
+    "category": "s1-08",
+    "categoryLabel": "歩行者の保護など"
   },
   {
     "id": "import-本免2-6",
@@ -4852,7 +6204,14 @@ window.DEMO_BANK=[
     "originalUid": "U0868",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0868",
+    "categories": [
+      "s2-13",
+      "s1-13"
+    ],
+    "category": "s2-13",
+    "categoryLabel": "けん引"
   },
   {
     "id": "import-本免2-7",
@@ -4875,7 +6234,11 @@ window.DEMO_BANK=[
     "originalUid": "U0869",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0869",
+    "categories": [],
+    "category": "s2-07",
+    "categoryLabel": "車に働く自然の力と運転"
   },
   {
     "id": "import-本免2-8",
@@ -4898,7 +6261,11 @@ window.DEMO_BANK=[
     "originalUid": "U0870",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0870",
+    "categories": [],
+    "category": "s2-12",
+    "categoryLabel": "乗車と積載"
   },
   {
     "id": "import-本免2-9",
@@ -4921,7 +6288,13 @@ window.DEMO_BANK=[
     "originalUid": "U0871",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0871",
+    "categories": [
+      "s1-06"
+    ],
+    "category": "s1-06",
+    "categoryLabel": "交差点などの通行・踏切"
   },
   {
     "id": "import-本免2-10",
@@ -4944,7 +6317,11 @@ window.DEMO_BANK=[
     "originalUid": "U0872",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0872",
+    "categories": [],
+    "category": "s1-03",
+    "categoryLabel": "標識・標示などに従うこと"
   },
   {
     "id": "import-本免2-11",
@@ -4967,7 +6344,11 @@ window.DEMO_BANK=[
     "originalUid": "U0873",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0873",
+    "categories": [],
+    "category": "s1-01",
+    "categoryLabel": "運転者の心得"
   },
   {
     "id": "import-本免2-12",
@@ -4990,7 +6371,15 @@ window.DEMO_BANK=[
     "originalUid": "U0874",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0874",
+    "categories": [
+      "s1-02",
+      "s1-08",
+      "s1-06"
+    ],
+    "category": "s1-02",
+    "categoryLabel": "信号に従うこと"
   },
   {
     "id": "import-本免2-13",
@@ -5013,7 +6402,14 @@ window.DEMO_BANK=[
     "originalUid": "U0875",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0875",
+    "categories": [
+      "s1-06",
+      "s1-09"
+    ],
+    "category": "s1-06",
+    "categoryLabel": "交差点などの通行・踏切"
   },
   {
     "id": "import-本免2-14",
@@ -5036,7 +6432,13 @@ window.DEMO_BANK=[
     "originalUid": "U0876",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0876",
+    "categories": [
+      "s2-07"
+    ],
+    "category": "s2-07",
+    "categoryLabel": "車に働く自然の力と運転"
   },
   {
     "id": "import-本免2-15",
@@ -5059,7 +6461,15 @@ window.DEMO_BANK=[
     "originalUid": "U0877",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0877",
+    "categories": [
+      "s1-05",
+      "s1-06",
+      "s1-07"
+    ],
+    "category": "s1-05",
+    "categoryLabel": "緊急自動車などの優先"
   },
   {
     "id": "import-本免2-16",
@@ -5082,7 +6492,14 @@ window.DEMO_BANK=[
     "originalUid": "U0878",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0878",
+    "categories": [
+      "s1-14",
+      "s1-11"
+    ],
+    "category": "s1-14",
+    "categoryLabel": "オートマチック車の運転"
   },
   {
     "id": "import-本免2-17",
@@ -5105,7 +6522,13 @@ window.DEMO_BANK=[
     "originalUid": "U0879",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0879",
+    "categories": [
+      "s1-06"
+    ],
+    "category": "s1-06",
+    "categoryLabel": "交差点などの通行・踏切"
   },
   {
     "id": "import-本免2-18",
@@ -5128,7 +6551,15 @@ window.DEMO_BANK=[
     "originalUid": "U0880",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0880",
+    "categories": [
+      "s1-08",
+      "s1-06",
+      "s1-04"
+    ],
+    "category": "s1-08",
+    "categoryLabel": "歩行者の保護など"
   },
   {
     "id": "import-本免2-19",
@@ -5151,7 +6582,13 @@ window.DEMO_BANK=[
     "originalUid": "U0881",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0881",
+    "categories": [
+      "s2-13"
+    ],
+    "category": "s2-13",
+    "categoryLabel": "けん引"
   },
   {
     "id": "import-本免2-20",
@@ -5174,7 +6611,14 @@ window.DEMO_BANK=[
     "originalUid": "U0882",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0882",
+    "categories": [
+      "s2-17",
+      "s1-07"
+    ],
+    "category": "s2-17",
+    "categoryLabel": "高速道路での運転"
   },
   {
     "id": "import-本免2-21",
@@ -5197,7 +6641,15 @@ window.DEMO_BANK=[
     "originalUid": "U0883",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0883",
+    "categories": [
+      "s1-08",
+      "s1-12",
+      "s1-06"
+    ],
+    "category": "s1-08",
+    "categoryLabel": "歩行者の保護など"
   },
   {
     "id": "import-本免2-22",
@@ -5220,7 +6672,14 @@ window.DEMO_BANK=[
     "originalUid": "U0884",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0884",
+    "categories": [
+      "s2-15",
+      "s2-11"
+    ],
+    "category": "s2-15",
+    "categoryLabel": "自動車の所有者などの心得と保険制度"
   },
   {
     "id": "import-本免2-23",
@@ -5243,7 +6702,13 @@ window.DEMO_BANK=[
     "originalUid": "U0885",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0885",
+    "categories": [
+      "s1-13"
+    ],
+    "category": "s1-13",
+    "categoryLabel": "運転免許制度・交通反則通告制度"
   },
   {
     "id": "import-本免2-24",
@@ -5266,7 +6731,14 @@ window.DEMO_BANK=[
     "originalUid": "U0886",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0886",
+    "categories": [
+      "s2-11",
+      "s1-04"
+    ],
+    "category": "s2-11",
+    "categoryLabel": "駐車と停車"
   },
   {
     "id": "import-本免2-25",
@@ -5289,7 +6761,13 @@ window.DEMO_BANK=[
     "originalUid": "U0887",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0887",
+    "categories": [
+      "s1-04"
+    ],
+    "category": "s1-04",
+    "categoryLabel": "車の通行するところ・車が通行してはいけないところ"
   },
   {
     "id": "import-本免2-26",
@@ -5312,7 +6790,13 @@ window.DEMO_BANK=[
     "originalUid": "U0888",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0888",
+    "categories": [
+      "s2-08"
+    ],
+    "category": "s2-08",
+    "categoryLabel": "悪条件下での運転など"
   },
   {
     "id": "import-本免2-27",
@@ -5335,7 +6819,13 @@ window.DEMO_BANK=[
     "originalUid": "U0889",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0889",
+    "categories": [
+      "s1-11"
+    ],
+    "category": "s1-11",
+    "categoryLabel": "追い越し"
   },
   {
     "id": "import-本免2-28",
@@ -5358,7 +6848,11 @@ window.DEMO_BANK=[
     "originalUid": "U0890",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0890",
+    "categories": [],
+    "category": "s1-03",
+    "categoryLabel": "標識・標示などに従うこと"
   },
   {
     "id": "import-本免2-29",
@@ -5381,7 +6875,14 @@ window.DEMO_BANK=[
     "originalUid": "U0891",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0891",
+    "categories": [
+      "s2-07",
+      "s1-07"
+    ],
+    "category": "s2-07",
+    "categoryLabel": "車に働く自然の力と運転"
   },
   {
     "id": "import-本免2-30",
@@ -5404,7 +6905,13 @@ window.DEMO_BANK=[
     "originalUid": "U0892",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0892",
+    "categories": [
+      "s1-13"
+    ],
+    "category": "s1-13",
+    "categoryLabel": "運転免許制度・交通反則通告制度"
   },
   {
     "id": "import-本免2-31",
@@ -5427,7 +6934,14 @@ window.DEMO_BANK=[
     "originalUid": "U0893",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0893",
+    "categories": [
+      "s1-06",
+      "s1-09"
+    ],
+    "category": "s1-06",
+    "categoryLabel": "交差点などの通行・踏切"
   },
   {
     "id": "import-本免2-32",
@@ -5450,7 +6964,11 @@ window.DEMO_BANK=[
     "originalUid": "U0894",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0894",
+    "categories": [],
+    "category": "s2-08",
+    "categoryLabel": "悪条件下での運転など"
   },
   {
     "id": "import-本免2-33",
@@ -5473,7 +6991,13 @@ window.DEMO_BANK=[
     "originalUid": "U0895",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0895",
+    "categories": [
+      "s1-03"
+    ],
+    "category": "s1-03",
+    "categoryLabel": "標識・標示などに従うこと"
   },
   {
     "id": "import-本免2-34",
@@ -5496,7 +7020,13 @@ window.DEMO_BANK=[
     "originalUid": "U0896",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0896",
+    "categories": [
+      "s1-02"
+    ],
+    "category": "s1-02",
+    "categoryLabel": "信号に従うこと"
   },
   {
     "id": "import-本免2-35",
@@ -5519,7 +7049,14 @@ window.DEMO_BANK=[
     "originalUid": "U0897",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0897",
+    "categories": [
+      "s1-10",
+      "s1-09"
+    ],
+    "category": "s1-10",
+    "categoryLabel": "進路変更など"
   },
   {
     "id": "import-本免2-36",
@@ -5542,7 +7079,14 @@ window.DEMO_BANK=[
     "originalUid": "U0898",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0898",
+    "categories": [
+      "s1-06",
+      "s1-09"
+    ],
+    "category": "s1-06",
+    "categoryLabel": "交差点などの通行・踏切"
   },
   {
     "id": "import-本免2-37",
@@ -5565,7 +7109,13 @@ window.DEMO_BANK=[
     "originalUid": "U0899",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0899",
+    "categories": [
+      "s2-08"
+    ],
+    "category": "s2-08",
+    "categoryLabel": "悪条件下での運転など"
   },
   {
     "id": "import-本免2-38",
@@ -5588,7 +7138,13 @@ window.DEMO_BANK=[
     "originalUid": "U0900",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0900",
+    "categories": [
+      "s2-14"
+    ],
+    "category": "s2-14",
+    "categoryLabel": "交通事故のとき"
   },
   {
     "id": "import-本免2-39",
@@ -5611,7 +7167,13 @@ window.DEMO_BANK=[
     "originalUid": "U0901",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0901",
+    "categories": [
+      "s2-15"
+    ],
+    "category": "s2-15",
+    "categoryLabel": "自動車の所有者などの心得と保険制度"
   },
   {
     "id": "import-本免2-40",
@@ -5634,7 +7196,14 @@ window.DEMO_BANK=[
     "originalUid": "U0902",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0902",
+    "categories": [
+      "s1-08",
+      "s1-06"
+    ],
+    "category": "s1-08",
+    "categoryLabel": "歩行者の保護など"
   },
   {
     "id": "import-本免2-41",
@@ -5657,7 +7226,13 @@ window.DEMO_BANK=[
     "originalUid": "U0903",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0903",
+    "categories": [
+      "s2-07"
+    ],
+    "category": "s2-07",
+    "categoryLabel": "車に働く自然の力と運転"
   },
   {
     "id": "import-本免2-42",
@@ -5680,7 +7255,13 @@ window.DEMO_BANK=[
     "originalUid": "U0904",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0904",
+    "categories": [
+      "s1-13"
+    ],
+    "category": "s1-13",
+    "categoryLabel": "運転免許制度・交通反則通告制度"
   },
   {
     "id": "import-本免2-43",
@@ -5703,7 +7284,14 @@ window.DEMO_BANK=[
     "originalUid": "U0905",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0905",
+    "categories": [
+      "s2-15",
+      "s2-10"
+    ],
+    "category": "s2-15",
+    "categoryLabel": "自動車の所有者などの心得と保険制度"
   },
   {
     "id": "import-本免2-44",
@@ -5726,7 +7314,11 @@ window.DEMO_BANK=[
     "originalUid": "U0906",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0906",
+    "categories": [],
+    "category": "s1-02",
+    "categoryLabel": "信号に従うこと"
   },
   {
     "id": "import-本免2-45",
@@ -5749,7 +7341,14 @@ window.DEMO_BANK=[
     "originalUid": "U0907",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0907",
+    "categories": [
+      "s1-06",
+      "s1-04"
+    ],
+    "category": "s1-06",
+    "categoryLabel": "交差点などの通行・踏切"
   },
   {
     "id": "import-本免2-46",
@@ -5772,7 +7371,13 @@ window.DEMO_BANK=[
     "originalUid": "U0908",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0908",
+    "categories": [
+      "s1-13"
+    ],
+    "category": "s1-13",
+    "categoryLabel": "運転免許制度・交通反則通告制度"
   },
   {
     "id": "import-本免2-47",
@@ -5795,7 +7400,15 @@ window.DEMO_BANK=[
     "originalUid": "U0909",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0909",
+    "categories": [
+      "s1-08",
+      "s1-06",
+      "s1-04"
+    ],
+    "category": "s1-08",
+    "categoryLabel": "歩行者の保護など"
   },
   {
     "id": "import-本免2-48",
@@ -5818,7 +7431,13 @@ window.DEMO_BANK=[
     "originalUid": "U0910",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0910",
+    "categories": [
+      "s2-10"
+    ],
+    "category": "s2-10",
+    "categoryLabel": "自動車の保守管理"
   },
   {
     "id": "import-本免2-49",
@@ -5841,7 +7460,13 @@ window.DEMO_BANK=[
     "originalUid": "U0911",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0911",
+    "categories": [
+      "s2-11"
+    ],
+    "category": "s2-11",
+    "categoryLabel": "駐車と停車"
   },
   {
     "id": "import-本免2-50",
@@ -5864,7 +7489,14 @@ window.DEMO_BANK=[
     "originalUid": "U0912",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0912",
+    "categories": [
+      "s2-07",
+      "s1-04"
+    ],
+    "category": "s2-07",
+    "categoryLabel": "車に働く自然の力と運転"
   },
   {
     "id": "import-本免2-51",
@@ -5887,7 +7519,13 @@ window.DEMO_BANK=[
     "originalUid": "U0913",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0913",
+    "categories": [
+      "s2-11"
+    ],
+    "category": "s2-11",
+    "categoryLabel": "駐車と停車"
   },
   {
     "id": "import-本免2-52",
@@ -5910,7 +7548,15 @@ window.DEMO_BANK=[
     "originalUid": "U0914",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0914",
+    "categories": [
+      "s1-02",
+      "s1-08",
+      "s1-09"
+    ],
+    "category": "s1-02",
+    "categoryLabel": "信号に従うこと"
   },
   {
     "id": "import-本免2-53",
@@ -5933,7 +7579,13 @@ window.DEMO_BANK=[
     "originalUid": "U0915",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0915",
+    "categories": [
+      "s2-04"
+    ],
+    "category": "s2-04",
+    "categoryLabel": "死角と運転"
   },
   {
     "id": "import-本免2-54",
@@ -5956,7 +7608,11 @@ window.DEMO_BANK=[
     "originalUid": "U0916",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0916",
+    "categories": [],
+    "category": "s1-03",
+    "categoryLabel": "標識・標示などに従うこと"
   },
   {
     "id": "import-本免2-55",
@@ -5979,7 +7635,11 @@ window.DEMO_BANK=[
     "originalUid": "U0917",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0917",
+    "categories": [],
+    "category": "s1-03",
+    "categoryLabel": "標識・標示などに従うこと"
   },
   {
     "id": "import-本免2-56",
@@ -6002,7 +7662,11 @@ window.DEMO_BANK=[
     "originalUid": "U0918",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0918",
+    "categories": [],
+    "category": "s1-03",
+    "categoryLabel": "標識・標示などに従うこと"
   },
   {
     "id": "import-本免2-57",
@@ -6025,7 +7689,13 @@ window.DEMO_BANK=[
     "originalUid": "U0919",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0919",
+    "categories": [
+      "s1-08"
+    ],
+    "category": "s1-08",
+    "categoryLabel": "歩行者の保護など"
   },
   {
     "id": "import-本免2-58",
@@ -6048,7 +7718,11 @@ window.DEMO_BANK=[
     "originalUid": "U0920",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0920",
+    "categories": [],
+    "category": "s1-01",
+    "categoryLabel": "運転者の心得"
   },
   {
     "id": "import-本免2-59",
@@ -6071,7 +7745,13 @@ window.DEMO_BANK=[
     "originalUid": "U0921",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0921",
+    "categories": [
+      "s1-01"
+    ],
+    "category": "s1-01",
+    "categoryLabel": "運転者の心得"
   },
   {
     "id": "import-本免2-60",
@@ -6094,7 +7774,14 @@ window.DEMO_BANK=[
     "originalUid": "U0922",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0922",
+    "categories": [
+      "s1-14",
+      "s1-10"
+    ],
+    "category": "s1-14",
+    "categoryLabel": "オートマチック車の運転"
   },
   {
     "id": "import-本免2-61",
@@ -6117,7 +7804,13 @@ window.DEMO_BANK=[
     "originalUid": "U0923",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0923",
+    "categories": [
+      "s2-10"
+    ],
+    "category": "s2-10",
+    "categoryLabel": "自動車の保守管理"
   },
   {
     "id": "import-本免2-62",
@@ -6140,7 +7833,15 @@ window.DEMO_BANK=[
     "originalUid": "U0924",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0924",
+    "categories": [
+      "s2-12",
+      "s1-07",
+      "s1-04"
+    ],
+    "category": "s2-12",
+    "categoryLabel": "乗車と積載"
   },
   {
     "id": "import-本免2-63",
@@ -6163,7 +7864,15 @@ window.DEMO_BANK=[
     "originalUid": "U0925",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0925",
+    "categories": [
+      "s1-03",
+      "s1-10",
+      "s1-04"
+    ],
+    "category": "s1-03",
+    "categoryLabel": "標識・標示などに従うこと"
   },
   {
     "id": "import-本免2-64",
@@ -6186,7 +7895,11 @@ window.DEMO_BANK=[
     "originalUid": "U0926",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0926",
+    "categories": [],
+    "category": "s1-01",
+    "categoryLabel": "運転者の心得"
   },
   {
     "id": "import-本免2-65",
@@ -6209,7 +7922,11 @@ window.DEMO_BANK=[
     "originalUid": "U0927",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0927",
+    "categories": [],
+    "category": "s1-08",
+    "categoryLabel": "歩行者の保護など"
   },
   {
     "id": "import-本免2-66",
@@ -6232,7 +7949,11 @@ window.DEMO_BANK=[
     "originalUid": "U0928",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0928",
+    "categories": [],
+    "category": "s2-15",
+    "categoryLabel": "自動車の所有者などの心得と保険制度"
   },
   {
     "id": "import-本免2-67",
@@ -6255,7 +7976,13 @@ window.DEMO_BANK=[
     "originalUid": "U0929",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0929",
+    "categories": [
+      "s2-17"
+    ],
+    "category": "s2-17",
+    "categoryLabel": "高速道路での運転"
   },
   {
     "id": "import-本免2-68",
@@ -6278,7 +8005,13 @@ window.DEMO_BANK=[
     "originalUid": "U0930",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0930",
+    "categories": [
+      "s1-04"
+    ],
+    "category": "s1-04",
+    "categoryLabel": "車の通行するところ・車が通行してはいけないところ"
   },
   {
     "id": "import-本免2-69",
@@ -6301,7 +8034,14 @@ window.DEMO_BANK=[
     "originalUid": "U0931",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0931",
+    "categories": [
+      "s1-06",
+      "s1-09"
+    ],
+    "category": "s1-06",
+    "categoryLabel": "交差点などの通行・踏切"
   },
   {
     "id": "import-本免2-70",
@@ -6324,7 +8064,11 @@ window.DEMO_BANK=[
     "originalUid": "U0932",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0932",
+    "categories": [],
+    "category": "s1-01",
+    "categoryLabel": "運転者の心得"
   },
   {
     "id": "import-本免2-71",
@@ -6347,7 +8091,14 @@ window.DEMO_BANK=[
     "originalUid": "U0933",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0933",
+    "categories": [
+      "s1-11",
+      "s1-06"
+    ],
+    "category": "s1-11",
+    "categoryLabel": "追い越し"
   },
   {
     "id": "import-本免2-72",
@@ -6370,7 +8121,13 @@ window.DEMO_BANK=[
     "originalUid": "U0934",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0934",
+    "categories": [
+      "s2-07"
+    ],
+    "category": "s2-07",
+    "categoryLabel": "車に働く自然の力と運転"
   },
   {
     "id": "import-本免2-73",
@@ -6393,7 +8150,15 @@ window.DEMO_BANK=[
     "originalUid": "U0935",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0935",
+    "categories": [
+      "s1-10",
+      "s1-06",
+      "s1-04"
+    ],
+    "category": "s1-10",
+    "categoryLabel": "進路変更など"
   },
   {
     "id": "import-本免2-74",
@@ -6416,7 +8181,15 @@ window.DEMO_BANK=[
     "originalUid": "U0936",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0936",
+    "categories": [
+      "s1-05",
+      "s1-08",
+      "s1-04"
+    ],
+    "category": "s1-05",
+    "categoryLabel": "緊急自動車などの優先"
   },
   {
     "id": "import-本免2-75",
@@ -6439,7 +8212,13 @@ window.DEMO_BANK=[
     "originalUid": "U0937",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0937",
+    "categories": [
+      "s1-04"
+    ],
+    "category": "s1-04",
+    "categoryLabel": "車の通行するところ・車が通行してはいけないところ"
   },
   {
     "id": "import-本免2-76",
@@ -6462,7 +8241,11 @@ window.DEMO_BANK=[
     "originalUid": "U0938",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0938",
+    "categories": [],
+    "category": "s2-09",
+    "categoryLabel": "特徴的な事故と事故の悲惨さ"
   },
   {
     "id": "import-本免2-77",
@@ -6485,7 +8268,13 @@ window.DEMO_BANK=[
     "originalUid": "U0939",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0939",
+    "categories": [
+      "s1-04"
+    ],
+    "category": "s1-04",
+    "categoryLabel": "車の通行するところ・車が通行してはいけないところ"
   },
   {
     "id": "import-本免2-78",
@@ -6508,7 +8297,15 @@ window.DEMO_BANK=[
     "originalUid": "U0940",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0940",
+    "categories": [
+      "s2-17",
+      "s1-07",
+      "s1-04"
+    ],
+    "category": "s2-17",
+    "categoryLabel": "高速道路での運転"
   },
   {
     "id": "import-本免2-79",
@@ -6531,7 +8328,15 @@ window.DEMO_BANK=[
     "originalUid": "U0941",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0941",
+    "categories": [
+      "s2-10",
+      "s2-08",
+      "s1-07"
+    ],
+    "category": "s2-10",
+    "categoryLabel": "自動車の保守管理"
   },
   {
     "id": "import-本免2-80",
@@ -6554,7 +8359,14 @@ window.DEMO_BANK=[
     "originalUid": "U0942",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0942",
+    "categories": [
+      "s2-10",
+      "s2-07"
+    ],
+    "category": "s2-10",
+    "categoryLabel": "自動車の保守管理"
   },
   {
     "id": "import-本免2-81",
@@ -6577,7 +8389,14 @@ window.DEMO_BANK=[
     "originalUid": "U0943",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0943",
+    "categories": [
+      "s1-11",
+      "s1-04"
+    ],
+    "category": "s1-11",
+    "categoryLabel": "追い越し"
   },
   {
     "id": "import-本免2-82",
@@ -6600,7 +8419,14 @@ window.DEMO_BANK=[
     "originalUid": "U0944",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0944",
+    "categories": [
+      "s2-12",
+      "s1-13"
+    ],
+    "category": "s2-12",
+    "categoryLabel": "乗車と積載"
   },
   {
     "id": "import-本免2-83",
@@ -6623,7 +8449,13 @@ window.DEMO_BANK=[
     "originalUid": "U0945",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0945",
+    "categories": [
+      "s1-12"
+    ],
+    "category": "s1-12",
+    "categoryLabel": "行き違い"
   },
   {
     "id": "import-本免2-84",
@@ -6646,7 +8478,13 @@ window.DEMO_BANK=[
     "originalUid": "U0946",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0946",
+    "categories": [
+      "s2-06"
+    ],
+    "category": "s2-06",
+    "categoryLabel": "人間の能力と運転"
   },
   {
     "id": "import-本免2-85",
@@ -6669,7 +8507,14 @@ window.DEMO_BANK=[
     "originalUid": "U0947",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0947",
+    "categories": [
+      "s1-13",
+      "s1-14"
+    ],
+    "category": "s1-13",
+    "categoryLabel": "運転免許制度・交通反則通告制度"
   },
   {
     "id": "import-本免2-86",
@@ -6692,7 +8537,14 @@ window.DEMO_BANK=[
     "originalUid": "U0948",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0948",
+    "categories": [
+      "s2-17",
+      "s1-04"
+    ],
+    "category": "s2-17",
+    "categoryLabel": "高速道路での運転"
   },
   {
     "id": "import-本免2-87",
@@ -6715,7 +8567,15 @@ window.DEMO_BANK=[
     "originalUid": "U0949",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0949",
+    "categories": [
+      "s1-02",
+      "s1-06",
+      "s1-07"
+    ],
+    "category": "s1-02",
+    "categoryLabel": "信号に従うこと"
   },
   {
     "id": "import-本免2-88",
@@ -6738,7 +8598,11 @@ window.DEMO_BANK=[
     "originalUid": "U0950",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0950",
+    "categories": [],
+    "category": "s2-12",
+    "categoryLabel": "乗車と積載"
   },
   {
     "id": "import-本免2-89",
@@ -6761,7 +8625,13 @@ window.DEMO_BANK=[
     "originalUid": "U0951",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0951",
+    "categories": [
+      "s2-11"
+    ],
+    "category": "s2-11",
+    "categoryLabel": "駐車と停車"
   },
   {
     "id": "import-本免2-90",
@@ -6784,7 +8654,13 @@ window.DEMO_BANK=[
     "originalUid": "U0952",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0952",
+    "categories": [
+      "s1-03"
+    ],
+    "category": "s1-03",
+    "categoryLabel": "標識・標示などに従うこと"
   },
   {
     "id": "import-本免2-91-1",
@@ -6807,7 +8683,14 @@ window.DEMO_BANK=[
     "originalUid": "U0851",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0851",
+    "categories": [
+      "s2-17",
+      "s1-10"
+    ],
+    "category": "s2-17",
+    "categoryLabel": "高速道路での運転"
   },
   {
     "id": "import-本免2-91-2",
@@ -6830,7 +8713,13 @@ window.DEMO_BANK=[
     "originalUid": "U0953",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0953",
+    "categories": [
+      "s2-17"
+    ],
+    "category": "s2-17",
+    "categoryLabel": "高速道路での運転"
   },
   {
     "id": "import-本免2-91-3",
@@ -6853,7 +8742,13 @@ window.DEMO_BANK=[
     "originalUid": "U0954",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0954",
+    "categories": [
+      "s2-17"
+    ],
+    "category": "s2-17",
+    "categoryLabel": "高速道路での運転"
   },
   {
     "id": "import-本免2-92-1",
@@ -6876,7 +8771,13 @@ window.DEMO_BANK=[
     "originalUid": "U0955",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0955",
+    "categories": [
+      "s1-06"
+    ],
+    "category": "s1-06",
+    "categoryLabel": "交差点などの通行・踏切"
   },
   {
     "id": "import-本免2-92-2",
@@ -6899,7 +8800,13 @@ window.DEMO_BANK=[
     "originalUid": "U0956",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0956",
+    "categories": [
+      "s1-06"
+    ],
+    "category": "s1-06",
+    "categoryLabel": "交差点などの通行・踏切"
   },
   {
     "id": "import-本免2-92-3",
@@ -6922,7 +8829,13 @@ window.DEMO_BANK=[
     "originalUid": "U0957",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0957",
+    "categories": [
+      "s1-06"
+    ],
+    "category": "s1-06",
+    "categoryLabel": "交差点などの通行・踏切"
   },
   {
     "id": "import-本免2-93-1",
@@ -6945,7 +8858,14 @@ window.DEMO_BANK=[
     "originalUid": "U0958",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0958",
+    "categories": [
+      "s2-11",
+      "s1-09"
+    ],
+    "category": "s2-11",
+    "categoryLabel": "駐車と停車"
   },
   {
     "id": "import-本免2-93-2",
@@ -6968,7 +8888,15 @@ window.DEMO_BANK=[
     "originalUid": "U0959",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0959",
+    "categories": [
+      "s2-11",
+      "s1-08",
+      "s2-04"
+    ],
+    "category": "s2-11",
+    "categoryLabel": "駐車と停車"
   },
   {
     "id": "import-本免2-93-3",
@@ -6991,7 +8919,11 @@ window.DEMO_BANK=[
     "originalUid": "U0960",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0960",
+    "categories": [],
+    "category": "s2-04",
+    "categoryLabel": "死角と運転"
   },
   {
     "id": "import-本免2-94-1",
@@ -7014,7 +8946,14 @@ window.DEMO_BANK=[
     "originalUid": "U0961",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0961",
+    "categories": [
+      "s1-08",
+      "s1-06"
+    ],
+    "category": "s1-08",
+    "categoryLabel": "歩行者の保護など"
   },
   {
     "id": "import-本免2-94-2",
@@ -7037,7 +8976,14 @@ window.DEMO_BANK=[
     "originalUid": "U0962",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0962",
+    "categories": [
+      "s1-08",
+      "s1-06"
+    ],
+    "category": "s1-08",
+    "categoryLabel": "歩行者の保護など"
   },
   {
     "id": "import-本免2-94-3",
@@ -7060,7 +9006,14 @@ window.DEMO_BANK=[
     "originalUid": "U0963",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0963",
+    "categories": [
+      "s1-08",
+      "s1-06"
+    ],
+    "category": "s1-08",
+    "categoryLabel": "歩行者の保護など"
   },
   {
     "id": "import-本免2-95-1",
@@ -7083,7 +9036,13 @@ window.DEMO_BANK=[
     "originalUid": "U0964",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0964",
+    "categories": [
+      "s1-08"
+    ],
+    "category": "s1-08",
+    "categoryLabel": "歩行者の保護など"
   },
   {
     "id": "import-本免2-95-2",
@@ -7106,7 +9065,13 @@ window.DEMO_BANK=[
     "originalUid": "U0965",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0965",
+    "categories": [
+      "s1-10"
+    ],
+    "category": "s1-10",
+    "categoryLabel": "進路変更など"
   },
   {
     "id": "import-本免2-95-3",
@@ -7129,7 +9094,13 @@ window.DEMO_BANK=[
     "originalUid": "U0966",
     "reference": "原题参考页 ",
     "source": "https://sson-s2.github.io/menkyo-quiz/",
-    "sourceLabel": "原免許○×题库"
+    "sourceLabel": "原免許○×题库",
+    "canonical": "source:U0966",
+    "categories": [
+      "s1-08"
+    ],
+    "category": "s1-08",
+    "categoryLabel": "歩行者の保護など"
   },
   {
     "id": "demo-01",
@@ -7141,7 +9112,13 @@ window.DEMO_BANK=[
     "papers": [],
     "source": "https://www.npa.go.jp/bureau/traffic/20241101kyousoku.pdf",
     "reference": "第4章第1节／第5章第1节",
-    "legacy": true
+    "legacy": true,
+    "canonical": "legacy:demo-01",
+    "categories": [
+      "s2-04"
+    ],
+    "category": "s2-04",
+    "categoryLabel": "死角と運転"
   },
   {
     "id": "demo-02",
@@ -7153,7 +9130,14 @@ window.DEMO_BANK=[
     "papers": [],
     "source": "https://www.npa.go.jp/bureau/traffic/20241101kyousoku.pdf",
     "reference": "第4章第1节／第5章第1节",
-    "legacy": true
+    "legacy": true,
+    "canonical": "legacy:demo-02",
+    "categories": [
+      "s1-10",
+      "s2-04"
+    ],
+    "category": "s1-10",
+    "categoryLabel": "進路変更など"
   },
   {
     "id": "demo-03",
@@ -7165,7 +9149,13 @@ window.DEMO_BANK=[
     "papers": [],
     "source": "https://www.npa.go.jp/bureau/traffic/20241101kyousoku.pdf",
     "reference": "第4章第1节／第5章第1节",
-    "legacy": true
+    "legacy": true,
+    "canonical": "legacy:demo-03",
+    "categories": [
+      "s1-08"
+    ],
+    "category": "s1-08",
+    "categoryLabel": "歩行者の保護など"
   },
   {
     "id": "demo-04",
@@ -7177,7 +9167,11 @@ window.DEMO_BANK=[
     "papers": [],
     "source": "https://www.npa.go.jp/bureau/traffic/20241101kyousoku.pdf",
     "reference": "第4章第1节／第5章第1节",
-    "legacy": true
+    "legacy": true,
+    "canonical": "legacy:demo-04",
+    "categories": [],
+    "category": "s1-01",
+    "categoryLabel": "運転者の心得"
   },
   {
     "id": "demo-05",
@@ -7189,7 +9183,13 @@ window.DEMO_BANK=[
     "papers": [],
     "source": "https://www.npa.go.jp/bureau/traffic/20241101kyousoku.pdf",
     "reference": "第4章第1节／第5章第1节",
-    "legacy": true
+    "legacy": true,
+    "canonical": "legacy:demo-05",
+    "categories": [
+      "s2-06"
+    ],
+    "category": "s2-06",
+    "categoryLabel": "人間の能力と運転"
   },
   {
     "id": "demo-06",
@@ -7201,7 +9201,13 @@ window.DEMO_BANK=[
     "papers": [],
     "source": "https://www.npa.go.jp/bureau/traffic/20241101kyousoku.pdf",
     "reference": "第4章第1节／第5章第1节",
-    "legacy": true
+    "legacy": true,
+    "canonical": "legacy:demo-06",
+    "categories": [
+      "s2-16"
+    ],
+    "category": "s2-16",
+    "categoryLabel": "経路の設計"
   },
   {
     "id": "demo-07",
@@ -7213,7 +9219,13 @@ window.DEMO_BANK=[
     "papers": [],
     "source": "https://www.npa.go.jp/bureau/traffic/20241101kyousoku.pdf",
     "reference": "第4章第1节／第5章第1节",
-    "legacy": true
+    "legacy": true,
+    "canonical": "legacy:demo-07",
+    "categories": [
+      "s1-01"
+    ],
+    "category": "s1-01",
+    "categoryLabel": "運転者の心得"
   },
   {
     "id": "demo-08",
@@ -7225,7 +9237,11 @@ window.DEMO_BANK=[
     "papers": [],
     "source": "https://www.npa.go.jp/bureau/traffic/20241101kyousoku.pdf",
     "reference": "第4章第1节／第5章第1节",
-    "legacy": true
+    "legacy": true,
+    "canonical": "legacy:demo-08",
+    "categories": [],
+    "category": "s1-01",
+    "categoryLabel": "運転者の心得"
   },
   {
     "id": "demo-09",
@@ -7237,7 +9253,13 @@ window.DEMO_BANK=[
     "papers": [],
     "source": "https://www.npa.go.jp/bureau/traffic/20241101kyousoku.pdf",
     "reference": "第4章第1节／第5章第1节",
-    "legacy": true
+    "legacy": true,
+    "canonical": "legacy:demo-09",
+    "categories": [
+      "s2-08"
+    ],
+    "category": "s2-08",
+    "categoryLabel": "悪条件下での運転など"
   },
   {
     "id": "demo-10",
@@ -7249,7 +9271,13 @@ window.DEMO_BANK=[
     "papers": [],
     "source": "https://www.npa.go.jp/bureau/traffic/20241101kyousoku.pdf",
     "reference": "第4章第1节／第5章第1节",
-    "legacy": true
+    "legacy": true,
+    "canonical": "legacy:demo-10",
+    "categories": [
+      "s2-08"
+    ],
+    "category": "s2-08",
+    "categoryLabel": "悪条件下での運転など"
   },
   {
     "id": "demo-11",
@@ -7261,7 +9289,11 @@ window.DEMO_BANK=[
     "papers": [],
     "source": "https://www.npa.go.jp/bureau/traffic/20241101kyousoku.pdf",
     "reference": "第4章第1节／第5章第1节",
-    "legacy": true
+    "legacy": true,
+    "canonical": "legacy:demo-11",
+    "categories": [],
+    "category": "s1-01",
+    "categoryLabel": "運転者の心得"
   },
   {
     "id": "demo-12",
@@ -7273,6 +9305,10 @@ window.DEMO_BANK=[
     "papers": [],
     "source": "https://www.npa.go.jp/bureau/traffic/20241101kyousoku.pdf",
     "reference": "第4章第1节／第5章第1节",
-    "legacy": true
+    "legacy": true,
+    "canonical": "legacy:demo-12",
+    "categories": [],
+    "category": "s1-01",
+    "categoryLabel": "運転者の心得"
   }
 ];

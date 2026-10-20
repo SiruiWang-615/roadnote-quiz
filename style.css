@@ -7,3 +7,5 @@
 .randomModes{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}.randomModes button{padding:10px 5px;font-size:12px}
 
 #resumeChoice{font-size:12px;max-width:100%;margin-left:6px}.resume>div{min-width:0}
+
+.quizSwitch{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin:0 0 20px;padding:14px 16px;border:1px solid var(--line);border-radius:14px}.quizSwitch .randomModes{margin:0}.quizSwitch small{color:var(--muted)}@media(max-width:600px){.quizSwitch{gap:8px}.quizSwitch .randomModes{width:100%}.quizSwitch .randomModes button{flex:1;padding:12px 8px}}
